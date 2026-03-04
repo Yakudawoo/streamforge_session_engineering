@@ -1,0 +1,1001 @@
+user_id,content_id,session_date,watched_seconds,total_seconds,completion_rate,genre,primary_genre,content_type,rating,subscription_type,user_age,country,monthly_revenue,duration_bucket
+user_001,content_006,2024-02-01,2552,3895,0.655198973042362,documentary,documentary,series,7.6,premium,32,DE,13.99,Long
+user_001,content_016,2024-02-19,225,2385,0.09433962264150944,thriller,thriller,documentary,7.6,premium,32,DE,13.99,Short
+user_001,content_020,2024-02-08,619,1871,0.33083912346338856,sci-fi,sci-fi,movie,6.4,premium,32,DE,13.99,Short
+user_001,content_022,2024-02-28,902,3872,0.23295454545454544,comedy,comedy,series,7.1,premium,32,DE,13.99,Long
+user_001,content_028,2024-02-28,785,4056,0.1935404339250493,romance,romance,movie,9.0,premium,32,DE,13.99,Long
+user_001,content_033,2024-03-20,465,1409,0.33002129169623845,thriller,thriller,series,8.3,premium,32,DE,13.99,Very Short
+user_001,content_047,2024-01-17,1341,3501,0.38303341902313626,romance,romance,series,8.1,premium,32,DE,13.99,Long
+user_001,content_048,2024-02-07,446,3232,0.1379950495049505,thriller,thriller,movie,7.2,premium,32,DE,13.99,Medium
+user_001,content_053,2024-01-30,5090,8349,0.6096538507605701,comedy,comedy,movie,7.1,premium,32,DE,13.99,Very Long
+user_001,content_061,2024-02-11,580,4387,0.13220879872350125,sci-fi,sci-fi,movie,6.9,premium,32,DE,13.99,Very Long
+user_001,content_071,2024-02-22,591,3698,0.15981611681990265,action,action,series,9.4,premium,32,DE,13.99,Long
+user_001,content_079,2024-01-31,87,2587,0.03362968689601856,comedy,comedy,movie,8.5,premium,32,DE,13.99,Medium
+user_001,content_081,2024-01-27,3737,10179,0.3671284016111602,romance,romance,documentary,9.3,premium,32,DE,13.99,Very Long
+user_001,content_087,2024-02-18,257,3235,0.0794435857805255,thriller,thriller,movie,9.2,premium,32,DE,13.99,Medium
+user_001,content_090,2024-03-16,206,2616,0.07874617737003058,comedy,comedy,documentary,6.1,premium,32,DE,13.99,Medium
+user_001,content_093,2024-02-06,1915,5776,0.3315443213296399,drama,drama,documentary,9.4,premium,32,DE,13.99,Very Long
+user_001,content_095,2024-02-07,556,2328,0.23883161512027493,documentary,documentary,series,6.0,premium,32,DE,13.99,Short
+user_001,content_098,2024-03-30,141,1510,0.09337748344370861,horror,horror,documentary,6.8,premium,32,DE,13.99,Very Short
+user_001,content_100,2024-03-07,103,2318,0.04443485763589301,thriller,thriller,documentary,8.5,premium,32,DE,13.99,Short
+user_002,content_012,2024-02-05,242,4283,0.05650245155265001,sci-fi,sci-fi,series,8.0,standard,68,CA,8.99,Long
+user_002,content_013,2024-01-09,246,2086,0.11792905081495686,sci-fi,sci-fi,series,8.4,standard,68,CA,8.99,Short
+user_002,content_015,2024-01-23,26,2581,0.010073614877954282,drama,drama,movie,7.8,standard,68,CA,8.99,Medium
+user_002,content_032,2024-02-29,527,3602,0.14630760688506386,drama,drama,movie,7.8,standard,68,CA,8.99,Long
+user_002,content_046,2024-03-29,3800,6335,0.5998421468034728,thriller,thriller,movie,8.8,standard,68,CA,8.99,Very Long
+user_002,content_049,2024-03-25,145,829,0.17490952955367914,drama,drama,series,6.1,standard,68,CA,8.99,Very Short
+user_002,content_053,2024-02-14,1759,4287,0.41031024026125495,comedy,comedy,movie,7.1,standard,68,CA,8.99,Long
+user_002,content_061,2024-03-09,958,4852,0.19744435284418796,sci-fi,sci-fi,movie,6.9,standard,68,CA,8.99,Very Long
+user_002,content_068,2024-01-01,337,4620,0.07294372294372295,documentary,documentary,movie,7.3,standard,68,CA,8.99,Very Long
+user_002,content_072,2024-03-24,316,2758,0.11457577955039884,horror,horror,documentary,9.4,standard,68,CA,8.99,Medium
+user_002,content_081,2024-01-31,351,752,0.46675531914893614,romance,romance,documentary,9.3,standard,68,CA,8.99,Very Short
+user_003,content_002,2024-03-25,439,2525,0.17386138613861385,documentary,documentary,documentary,9.5,premium,35,UK,17.99,Short
+user_003,content_008,2024-02-06,181,2677,0.06761299962644751,sci-fi,sci-fi,movie,6.3,premium,35,UK,17.99,Medium
+user_003,content_013,2024-01-03,263,2252,0.11678507992895204,sci-fi,sci-fi,series,8.4,premium,35,UK,17.99,Short
+user_003,content_014,2024-03-25,83,3212,0.025840597758405977,thriller,thriller,documentary,9.4,premium,35,UK,17.99,Medium
+user_003,content_023,2024-01-03,227,3716,0.06108719052744887,romance,romance,series,7.0,premium,35,UK,17.99,Long
+user_003,content_025,2024-03-16,1303,6731,0.19358193433367998,sci-fi,sci-fi,movie,9.3,premium,35,UK,17.99,Very Long
+user_003,content_038,2024-03-27,394,1961,0.20091789903110657,comedy,comedy,movie,8.5,premium,35,UK,17.99,Short
+user_003,content_039,2024-01-15,254,2751,0.09233006179571066,horror,horror,documentary,8.3,premium,35,UK,17.99,Medium
+user_003,content_039,2024-02-08,1106,2494,0.44346431435445066,horror,horror,documentary,8.3,premium,35,UK,17.99,Short
+user_003,content_039,2024-02-28,664,2664,0.24924924924924924,horror,horror,documentary,8.3,premium,35,UK,17.99,Medium
+user_003,content_043,2024-03-06,3722,6657,0.5591107105302688,comedy,comedy,documentary,9.3,premium,35,UK,17.99,Very Long
+user_003,content_052,2024-01-28,3252,7362,0.4417277913610432,horror,horror,movie,6.6,premium,35,UK,17.99,Very Long
+user_003,content_052,2024-02-29,1523,3198,0.47623514696685426,horror,horror,movie,6.6,premium,35,UK,17.99,Medium
+user_003,content_066,2024-03-06,797,3780,0.21084656084656084,drama,drama,series,8.0,premium,35,UK,17.99,Long
+user_003,content_071,2024-01-29,418,2023,0.20662382600098864,action,action,series,9.4,premium,35,UK,17.99,Short
+user_003,content_072,2024-01-01,762,3908,0.19498464687819858,horror,horror,documentary,9.4,premium,35,UK,17.99,Long
+user_003,content_073,2024-03-31,617,4076,0.1513738959764475,action,action,movie,9.3,premium,35,UK,17.99,Long
+user_003,content_078,2024-02-10,1256,3731,0.33663897078531224,comedy,comedy,series,6.3,premium,35,UK,17.99,Long
+user_003,content_084,2024-02-27,420,2428,0.17298187808896212,romance,romance,movie,7.6,premium,35,UK,17.99,Short
+user_003,content_085,2024-03-16,94,480,0.19583333333333333,romance,romance,movie,9.2,premium,35,UK,17.99,Very Short
+user_003,content_086,2024-02-04,473,3088,0.15317357512953367,drama,drama,documentary,9.2,premium,35,UK,17.99,Medium
+user_003,content_091,2024-01-03,1051,4472,0.23501788908765653,thriller,thriller,documentary,6.4,premium,35,UK,17.99,Very Long
+user_003,content_094,2024-02-08,19,2084,0.009117082533589251,comedy,comedy,series,7.3,premium,35,UK,17.99,Short
+user_004,content_009,2024-02-14,647,4483,0.1443229979924158,sci-fi,sci-fi,movie,7.7,premium,56,JP,8.99,Very Long
+user_004,content_012,2024-02-05,207,3352,0.06175417661097852,sci-fi,sci-fi,series,8.0,premium,56,JP,8.99,Medium
+user_004,content_013,2024-01-30,916,3813,0.24023078940466824,sci-fi,sci-fi,series,8.4,premium,56,JP,8.99,Long
+user_004,content_014,2024-01-07,269,3748,0.07177161152614728,thriller,thriller,documentary,9.4,premium,56,JP,8.99,Long
+user_004,content_016,2024-01-20,204,3296,0.061893203883495146,thriller,thriller,documentary,7.6,premium,56,JP,8.99,Medium
+user_004,content_019,2024-01-12,319,2225,0.14337078651685392,romance,romance,movie,8.1,premium,56,JP,8.99,Short
+user_004,content_019,2024-02-06,296,4241,0.06979485970290025,romance,romance,movie,8.1,premium,56,JP,8.99,Long
+user_004,content_024,2024-01-08,31,3632,0.008535242290748899,action,action,movie,6.5,premium,56,JP,8.99,Long
+user_004,content_031,2024-03-22,46,3615,0.01272475795297372,thriller,thriller,documentary,8.9,premium,56,JP,8.99,Long
+user_004,content_043,2024-01-17,73,2601,0.028066128412149175,comedy,comedy,documentary,9.3,premium,56,JP,8.99,Medium
+user_004,content_051,2024-02-06,533,2820,0.18900709219858156,comedy,comedy,movie,7.9,premium,56,JP,8.99,Medium
+user_004,content_067,2024-02-16,132,3609,0.03657522859517872,thriller,thriller,movie,9.0,premium,56,JP,8.99,Long
+user_004,content_072,2024-03-27,60,1146,0.05235602094240838,horror,horror,documentary,9.4,premium,56,JP,8.99,Very Short
+user_004,content_078,2024-03-15,735,2461,0.2986590816741162,comedy,comedy,series,6.3,premium,56,JP,8.99,Short
+user_004,content_081,2024-02-16,1254,6530,0.19203675344563553,romance,romance,documentary,9.3,premium,56,JP,8.99,Very Long
+user_004,content_085,2024-03-24,2733,7657,0.3569283009011362,romance,romance,movie,9.2,premium,56,JP,8.99,Very Long
+user_004,content_086,2024-01-15,426,1010,0.42178217821782177,drama,drama,documentary,9.2,premium,56,JP,8.99,Very Short
+user_004,content_086,2024-02-20,471,2516,0.1872019077901431,drama,drama,documentary,9.2,premium,56,JP,8.99,Short
+user_004,content_087,2024-02-04,3120,6259,0.49848218565266017,thriller,thriller,movie,9.2,premium,56,JP,8.99,Very Long
+user_004,content_089,2024-02-02,396,3562,0.1111734980348119,thriller,thriller,series,7.9,premium,56,JP,8.99,Long
+user_005,content_002,2024-03-20,158,1083,0.1458910433979686,documentary,documentary,documentary,9.5,premium,21,DE,13.99,Very Short
+user_005,content_003,2024-01-26,3133,7305,0.4288843258042437,documentary,documentary,series,7.0,premium,21,DE,13.99,Very Long
+user_005,content_003,2024-03-07,682,2307,0.29562201993931514,documentary,documentary,series,7.0,premium,21,DE,13.99,Short
+user_005,content_012,2024-03-12,510,1858,0.2744886975242196,sci-fi,sci-fi,series,8.0,premium,21,DE,13.99,Short
+user_005,content_015,2024-01-03,422,2183,0.19331195602382042,drama,drama,movie,7.8,premium,21,DE,13.99,Short
+user_005,content_025,2024-03-26,317,4602,0.06888309430682311,sci-fi,sci-fi,movie,9.3,premium,21,DE,13.99,Very Long
+user_005,content_030,2024-02-19,34,2234,0.01521933751119069,thriller,thriller,series,8.7,premium,21,DE,13.99,Short
+user_005,content_031,2024-03-16,294,3978,0.07390648567119155,thriller,thriller,documentary,8.9,premium,21,DE,13.99,Long
+user_005,content_036,2024-02-18,501,4121,0.12157243387527299,sci-fi,sci-fi,series,7.9,premium,21,DE,13.99,Long
+user_005,content_039,2024-02-29,334,3449,0.09683966367062917,horror,horror,documentary,8.3,premium,21,DE,13.99,Long
+user_005,content_047,2024-02-01,715,3600,0.1986111111111111,romance,romance,series,8.1,premium,21,DE,13.99,Long
+user_005,content_053,2024-03-26,125,3683,0.033939723051859896,comedy,comedy,movie,7.1,premium,21,DE,13.99,Long
+user_005,content_061,2024-01-07,623,4006,0.15551672491263105,sci-fi,sci-fi,movie,6.9,premium,21,DE,13.99,Long
+user_005,content_061,2024-01-23,794,1496,0.5307486631016043,sci-fi,sci-fi,movie,6.9,premium,21,DE,13.99,Very Short
+user_005,content_061,2024-02-06,3088,9735,0.317205957883924,sci-fi,sci-fi,movie,6.9,premium,21,DE,13.99,Very Long
+user_005,content_061,2024-02-14,1087,4844,0.22440132122213047,sci-fi,sci-fi,movie,6.9,premium,21,DE,13.99,Very Long
+user_005,content_066,2024-03-21,178,3335,0.05337331334332834,drama,drama,series,8.0,premium,21,DE,13.99,Medium
+user_005,content_067,2024-02-18,450,4238,0.10618216139688533,thriller,thriller,movie,9.0,premium,21,DE,13.99,Long
+user_005,content_068,2024-03-05,59,3678,0.016041326808047852,documentary,documentary,movie,7.3,premium,21,DE,13.99,Long
+user_005,content_073,2024-03-01,155,3439,0.04507124164001163,action,action,movie,9.3,premium,21,DE,13.99,Medium
+user_005,content_074,2024-02-27,259,3753,0.06901145750066613,thriller,thriller,series,8.1,premium,21,DE,13.99,Long
+user_005,content_082,2024-02-21,2195,6172,0.35563836681788724,horror,horror,documentary,7.6,premium,21,DE,13.99,Very Long
+user_005,content_082,2024-03-30,208,1468,0.14168937329700274,horror,horror,documentary,7.6,premium,21,DE,13.99,Very Short
+user_005,content_086,2024-01-01,2586,5744,0.45020891364902504,drama,drama,documentary,9.2,premium,21,DE,13.99,Very Long
+user_005,content_092,2024-01-05,115,966,0.11904761904761904,sci-fi,sci-fi,documentary,7.3,premium,21,DE,13.99,Very Short
+user_006,content_009,2024-02-20,642,2722,0.23585598824393827,sci-fi,sci-fi,movie,7.7,basic,24,BR,17.99,Medium
+user_006,content_014,2024-03-25,62,2706,0.022912047302291204,thriller,thriller,documentary,9.4,basic,24,BR,17.99,Medium
+user_006,content_015,2024-02-01,1041,1565,0.6651757188498403,drama,drama,movie,7.8,basic,24,BR,17.99,Very Short
+user_006,content_029,2024-02-29,3395,9157,0.37075461395653597,sci-fi,sci-fi,series,8.0,basic,24,BR,17.99,Very Long
+user_006,content_030,2024-02-18,5068,7001,0.7238965862019712,thriller,thriller,series,8.7,basic,24,BR,17.99,Very Long
+user_006,content_036,2024-02-01,814,2861,0.2845159035302342,sci-fi,sci-fi,series,7.9,basic,24,BR,17.99,Medium
+user_006,content_038,2024-02-21,407,3069,0.13261648745519714,comedy,comedy,movie,8.5,basic,24,BR,17.99,Medium
+user_006,content_040,2024-02-14,1009,3481,0.28985923585176676,comedy,comedy,movie,9.3,basic,24,BR,17.99,Long
+user_006,content_044,2024-03-19,67,2800,0.023928571428571428,drama,drama,movie,7.0,basic,24,BR,17.99,Medium
+user_006,content_048,2024-01-07,439,3549,0.12369681600450831,thriller,thriller,movie,7.2,basic,24,BR,17.99,Long
+user_006,content_048,2024-03-13,1044,4698,0.2222222222222222,thriller,thriller,movie,7.2,basic,24,BR,17.99,Very Long
+user_006,content_049,2024-02-06,257,1042,0.24664107485604606,drama,drama,series,6.1,basic,24,BR,17.99,Very Short
+user_006,content_051,2024-03-05,368,3351,0.10981796478663086,comedy,comedy,movie,7.9,basic,24,BR,17.99,Medium
+user_006,content_060,2024-02-16,2623,6960,0.376867816091954,documentary,documentary,series,7.8,basic,24,BR,17.99,Very Long
+user_006,content_061,2024-01-07,102,2229,0.04576043068640646,sci-fi,sci-fi,movie,6.9,basic,24,BR,17.99,Short
+user_006,content_061,2024-02-09,3998,5391,0.7416063810053793,sci-fi,sci-fi,movie,6.9,basic,24,BR,17.99,Very Long
+user_006,content_061,2024-02-22,250,4945,0.05055611729019211,sci-fi,sci-fi,movie,6.9,basic,24,BR,17.99,Very Long
+user_006,content_062,2024-03-31,998,2602,0.3835511145272867,romance,romance,series,7.9,basic,24,BR,17.99,Medium
+user_006,content_079,2024-03-20,704,1665,0.4228228228228228,comedy,comedy,movie,8.5,basic,24,BR,17.99,Very Short
+user_006,content_082,2024-03-09,104,1897,0.05482340537691091,horror,horror,documentary,7.6,basic,24,BR,17.99,Short
+user_006,content_091,2024-02-06,1145,4548,0.2517590149516271,thriller,thriller,documentary,6.4,basic,24,BR,17.99,Very Long
+user_006,content_091,2024-02-27,175,3328,0.052584134615384616,thriller,thriller,documentary,6.4,basic,24,BR,17.99,Medium
+user_006,content_096,2024-01-28,447,1633,0.2737293325168402,action,action,series,8.4,basic,24,BR,17.99,Very Short
+user_006,content_099,2024-02-11,152,3942,0.038559107052257735,thriller,thriller,series,6.1,basic,24,BR,17.99,Long
+user_007,content_005,2024-03-23,644,3618,0.17799889441680486,documentary,documentary,movie,7.1,premium,68,BR,8.99,Long
+user_007,content_018,2024-01-01,956,5076,0.18833727344365642,thriller,thriller,movie,8.6,premium,68,BR,8.99,Very Long
+user_007,content_024,2024-02-18,344,2782,0.12365204888569374,action,action,movie,6.5,premium,68,BR,8.99,Medium
+user_007,content_027,2024-03-30,757,4296,0.17621042830540037,thriller,thriller,movie,6.4,premium,68,BR,8.99,Long
+user_007,content_028,2024-03-31,527,3289,0.16023107327455152,romance,romance,movie,9.0,premium,68,BR,8.99,Medium
+user_007,content_034,2024-01-20,401,1797,0.223149693934335,drama,drama,documentary,7.1,premium,68,BR,8.99,Short
+user_007,content_049,2024-03-01,5866,8421,0.6965918536990856,drama,drama,series,6.1,premium,68,BR,8.99,Very Long
+user_007,content_061,2024-02-03,901,1953,0.46134152585765487,sci-fi,sci-fi,movie,6.9,premium,68,BR,8.99,Short
+user_007,content_065,2024-03-08,208,3195,0.06510172143974961,comedy,comedy,movie,8.7,premium,68,BR,8.99,Medium
+user_007,content_066,2024-01-16,383,3705,0.10337381916329284,drama,drama,series,8.0,premium,68,BR,8.99,Long
+user_007,content_081,2024-03-03,583,4366,0.13353183692166742,romance,romance,documentary,9.3,premium,68,BR,8.99,Long
+user_007,content_092,2024-01-19,488,2582,0.1890007745933385,sci-fi,sci-fi,documentary,7.3,premium,68,BR,8.99,Medium
+user_007,content_095,2024-03-09,2258,8720,0.2589449541284404,documentary,documentary,series,6.0,premium,68,BR,8.99,Very Long
+user_007,content_100,2024-01-29,1099,1690,0.6502958579881657,thriller,thriller,documentary,8.5,premium,68,BR,8.99,Very Short
+user_008,content_001,2024-01-06,1019,1633,0.6240048989589713,action,action,series,7.2,premium,20,FR,8.99,Very Short
+user_008,content_005,2024-03-19,82,895,0.09162011173184358,documentary,documentary,movie,7.1,premium,20,FR,8.99,Very Short
+user_008,content_011,2024-03-19,159,4641,0.03425985778926956,sci-fi,sci-fi,documentary,8.0,premium,20,FR,8.99,Very Long
+user_008,content_013,2024-01-01,772,4002,0.19290354822588707,sci-fi,sci-fi,series,8.4,premium,20,FR,8.99,Long
+user_008,content_021,2024-03-07,442,5230,0.08451242829827915,horror,horror,movie,7.8,premium,20,FR,8.99,Very Long
+user_008,content_034,2024-03-31,423,4155,0.10180505415162455,drama,drama,documentary,7.1,premium,20,FR,8.99,Long
+user_008,content_035,2024-01-21,22,937,0.023479188900747065,sci-fi,sci-fi,series,6.8,premium,20,FR,8.99,Very Short
+user_008,content_040,2024-02-21,1544,3568,0.4327354260089686,comedy,comedy,movie,9.3,premium,20,FR,8.99,Long
+user_008,content_040,2024-03-01,323,1355,0.23837638376383763,comedy,comedy,movie,9.3,premium,20,FR,8.99,Very Short
+user_008,content_041,2024-02-24,198,3776,0.0524364406779661,action,action,documentary,7.8,premium,20,FR,8.99,Long
+user_008,content_045,2024-02-28,781,4242,0.1841112682696841,documentary,documentary,movie,8.9,premium,20,FR,8.99,Long
+user_008,content_053,2024-01-06,461,1451,0.3177119228118539,comedy,comedy,movie,7.1,premium,20,FR,8.99,Very Short
+user_008,content_054,2024-02-09,200,3913,0.051111679018655765,sci-fi,sci-fi,documentary,6.6,premium,20,FR,8.99,Long
+user_008,content_059,2024-02-29,729,2503,0.2912504994007191,comedy,comedy,movie,6.7,premium,20,FR,8.99,Short
+user_008,content_059,2024-03-27,358,2156,0.1660482374768089,comedy,comedy,movie,6.7,premium,20,FR,8.99,Short
+user_008,content_064,2024-03-19,585,3452,0.1694669756662804,documentary,documentary,movie,6.9,premium,20,FR,8.99,Long
+user_008,content_071,2024-03-01,370,518,0.7142857142857143,action,action,series,9.4,premium,20,FR,8.99,Very Short
+user_008,content_072,2024-03-18,363,4503,0.08061292471685542,horror,horror,documentary,9.4,premium,20,FR,8.99,Very Long
+user_008,content_074,2024-01-20,186,4070,0.0457002457002457,thriller,thriller,series,8.1,premium,20,FR,8.99,Long
+user_008,content_085,2024-02-23,152,3057,0.049721949623814196,romance,romance,movie,9.2,premium,20,FR,8.99,Medium
+user_008,content_100,2024-01-27,865,4997,0.17310386231739044,thriller,thriller,documentary,8.5,premium,20,FR,8.99,Very Long
+user_009,content_012,2024-03-31,101,828,0.12198067632850242,sci-fi,sci-fi,series,8.0,basic,58,US,8.99,Very Short
+user_009,content_014,2024-03-16,101,2338,0.043199315654405476,thriller,thriller,documentary,9.4,basic,58,US,8.99,Short
+user_009,content_018,2024-01-25,225,3948,0.056990881458966566,thriller,thriller,movie,8.6,basic,58,US,8.99,Long
+user_009,content_031,2024-03-14,920,4008,0.22954091816367264,thriller,thriller,documentary,8.9,basic,58,US,8.99,Long
+user_009,content_034,2024-01-14,1028,2727,0.376971030436377,drama,drama,documentary,7.1,basic,58,US,8.99,Medium
+user_009,content_038,2024-02-17,271,2599,0.1042708734128511,comedy,comedy,movie,8.5,basic,58,US,8.99,Medium
+user_009,content_045,2024-02-01,1374,5007,0.274415817855003,documentary,documentary,movie,8.9,basic,58,US,8.99,Very Long
+user_009,content_062,2024-01-30,2724,6708,0.40608228980322003,romance,romance,series,7.9,basic,58,US,8.99,Very Long
+user_009,content_064,2024-02-16,372,3996,0.09309309309309309,documentary,documentary,movie,6.9,basic,58,US,8.99,Long
+user_009,content_065,2024-02-12,1080,2198,0.4913557779799818,comedy,comedy,movie,8.7,basic,58,US,8.99,Short
+user_009,content_072,2024-03-16,1400,4682,0.299017513882956,horror,horror,documentary,9.4,basic,58,US,8.99,Very Long
+user_009,content_074,2024-01-13,652,3980,0.16381909547738693,thriller,thriller,series,8.1,basic,58,US,8.99,Long
+user_009,content_076,2024-01-12,311,4234,0.07345299952763344,documentary,documentary,documentary,8.9,basic,58,US,8.99,Long
+user_009,content_082,2024-01-14,304,2602,0.11683320522674866,horror,horror,documentary,7.6,basic,58,US,8.99,Medium
+user_009,content_088,2024-02-01,357,860,0.41511627906976745,drama,drama,series,7.9,basic,58,US,8.99,Very Short
+user_009,content_098,2024-02-27,26,1270,0.02047244094488189,horror,horror,documentary,6.8,basic,58,US,8.99,Very Short
+user_009,content_100,2024-03-22,427,3404,0.1254406580493537,thriller,thriller,documentary,8.5,basic,58,US,8.99,Medium
+user_010,content_006,2024-02-11,780,3653,0.21352313167259787,documentary,documentary,series,7.6,standard,28,JP,13.99,Long
+user_010,content_009,2024-02-05,686,4174,0.16435074269286057,sci-fi,sci-fi,movie,7.7,standard,28,JP,13.99,Long
+user_010,content_010,2024-01-22,4294,8233,0.5215595773108223,thriller,thriller,movie,7.3,standard,28,JP,13.99,Very Long
+user_010,content_026,2024-01-30,679,3811,0.17816845972185777,horror,horror,series,6.8,standard,28,JP,13.99,Long
+user_010,content_048,2024-03-10,129,779,0.16559691912708602,thriller,thriller,movie,7.2,standard,28,JP,13.99,Very Short
+user_010,content_057,2024-01-30,1646,6465,0.2546017014694509,romance,romance,movie,7.4,standard,28,JP,13.99,Very Long
+user_010,content_064,2024-02-19,748,1646,0.45443499392466585,documentary,documentary,movie,6.9,standard,28,JP,13.99,Very Short
+user_010,content_071,2024-03-08,754,2622,0.28756674294431733,action,action,series,9.4,standard,28,JP,13.99,Medium
+user_010,content_082,2024-03-07,143,3049,0.04690062315513283,horror,horror,documentary,7.6,standard,28,JP,13.99,Medium
+user_010,content_088,2024-03-04,1087,1608,0.6759950248756219,drama,drama,series,7.9,standard,28,JP,13.99,Very Short
+user_011,content_009,2024-01-26,991,2933,0.3378793044664166,sci-fi,sci-fi,movie,7.7,premium,46,BR,17.99,Medium
+user_011,content_010,2024-02-14,570,4195,0.13587604290822408,thriller,thriller,movie,7.3,premium,46,BR,17.99,Long
+user_011,content_013,2024-03-06,128,1411,0.09071580439404678,sci-fi,sci-fi,series,8.4,premium,46,BR,17.99,Very Short
+user_011,content_014,2024-01-20,561,5019,0.11177525403466826,thriller,thriller,documentary,9.4,premium,46,BR,17.99,Very Long
+user_011,content_018,2024-01-06,38,1231,0.030869212022745736,thriller,thriller,movie,8.6,premium,46,BR,17.99,Very Short
+user_011,content_023,2024-01-05,210,3470,0.06051873198847262,romance,romance,series,7.0,premium,46,BR,17.99,Long
+user_011,content_024,2024-01-22,66,1641,0.04021937842778794,action,action,movie,6.5,premium,46,BR,17.99,Very Short
+user_011,content_060,2024-02-04,344,4004,0.08591408591408592,documentary,documentary,series,7.8,premium,46,BR,17.99,Long
+user_011,content_062,2024-01-09,1054,4938,0.2134467395706764,romance,romance,series,7.9,premium,46,BR,17.99,Very Long
+user_011,content_065,2024-02-20,3089,7667,0.402895526281466,comedy,comedy,movie,8.7,premium,46,BR,17.99,Very Long
+user_011,content_089,2024-01-04,283,2891,0.09789000345901072,thriller,thriller,series,7.9,premium,46,BR,17.99,Medium
+user_011,content_089,2024-02-14,876,4066,0.21544515494343336,thriller,thriller,series,7.9,premium,46,BR,17.99,Long
+user_011,content_092,2024-01-12,3791,5467,0.6934333272361441,sci-fi,sci-fi,documentary,7.3,premium,46,BR,17.99,Very Long
+user_011,content_095,2024-03-11,129,1666,0.07743097238895558,documentary,documentary,series,6.0,premium,46,BR,17.99,Very Short
+user_012,content_007,2024-02-18,433,2373,0.18246944795617362,drama,drama,documentary,7.5,standard,64,BR,8.99,Short
+user_012,content_007,2024-03-02,121,2207,0.054825555052106935,drama,drama,documentary,7.5,standard,64,BR,8.99,Short
+user_012,content_014,2024-03-08,1830,4028,0.4543197616683218,thriller,thriller,documentary,9.4,standard,64,BR,8.99,Long
+user_012,content_015,2024-01-17,3980,9182,0.4334567632324112,drama,drama,movie,7.8,standard,64,BR,8.99,Very Long
+user_012,content_015,2024-02-02,1099,1722,0.6382113821138211,drama,drama,movie,7.8,standard,64,BR,8.99,Very Short
+user_012,content_016,2024-03-31,200,2425,0.08247422680412371,thriller,thriller,documentary,7.6,standard,64,BR,8.99,Short
+user_012,content_017,2024-03-09,680,4497,0.1512119190571492,comedy,comedy,documentary,6.7,standard,64,BR,8.99,Very Long
+user_012,content_019,2024-03-25,224,2943,0.07611281005776419,romance,romance,movie,8.1,standard,64,BR,8.99,Medium
+user_012,content_023,2024-01-21,54,2497,0.021625951141369643,romance,romance,series,7.0,standard,64,BR,8.99,Short
+user_012,content_026,2024-03-10,387,4488,0.08622994652406417,horror,horror,series,6.8,standard,64,BR,8.99,Very Long
+user_012,content_029,2024-02-02,333,3921,0.08492731446059679,sci-fi,sci-fi,series,8.0,standard,64,BR,8.99,Long
+user_012,content_033,2024-01-10,184,2195,0.08382687927107062,thriller,thriller,series,8.3,standard,64,BR,8.99,Short
+user_012,content_034,2024-01-17,1847,7663,0.24102831789116533,drama,drama,documentary,7.1,standard,64,BR,8.99,Very Long
+user_012,content_036,2024-01-19,855,3099,0.2758954501452081,sci-fi,sci-fi,series,7.9,standard,64,BR,8.99,Medium
+user_012,content_041,2024-01-01,949,4375,0.21691428571428573,action,action,documentary,7.8,standard,64,BR,8.99,Very Long
+user_012,content_041,2024-01-02,315,1811,0.17393705135284374,action,action,documentary,7.8,standard,64,BR,8.99,Short
+user_012,content_056,2024-03-12,194,1002,0.1936127744510978,action,action,series,7.4,standard,64,BR,8.99,Very Short
+user_012,content_057,2024-03-03,351,2748,0.1277292576419214,romance,romance,movie,7.4,standard,64,BR,8.99,Medium
+user_012,content_065,2024-03-29,387,4630,0.08358531317494601,comedy,comedy,movie,8.7,standard,64,BR,8.99,Very Long
+user_012,content_071,2024-01-31,482,2813,0.1713473160327053,action,action,series,9.4,standard,64,BR,8.99,Medium
+user_012,content_076,2024-03-25,530,2784,0.1903735632183908,documentary,documentary,documentary,8.9,standard,64,BR,8.99,Medium
+user_013,content_008,2024-01-05,282,1920,0.146875,sci-fi,sci-fi,movie,6.3,basic,59,CA,13.99,Short
+user_013,content_016,2024-01-12,791,3819,0.2071222833202409,thriller,thriller,documentary,7.6,basic,59,CA,13.99,Long
+user_013,content_018,2024-03-29,251,2893,0.0867611475976495,thriller,thriller,movie,8.6,basic,59,CA,13.99,Medium
+user_013,content_021,2024-01-18,735,4374,0.16803840877914952,horror,horror,movie,7.8,basic,59,CA,13.99,Very Long
+user_013,content_025,2024-02-20,3677,9989,0.3681049154069476,sci-fi,sci-fi,movie,9.3,basic,59,CA,13.99,Very Long
+user_013,content_058,2024-02-24,589,2345,0.2511727078891258,romance,romance,series,7.3,basic,59,CA,13.99,Short
+user_013,content_062,2024-01-23,441,3502,0.12592804111936037,romance,romance,series,7.9,basic,59,CA,13.99,Long
+user_013,content_064,2024-03-09,838,3689,0.22716183247492544,documentary,documentary,movie,6.9,basic,59,CA,13.99,Long
+user_013,content_072,2024-03-08,88,3387,0.025981694715087097,horror,horror,documentary,9.4,basic,59,CA,13.99,Medium
+user_013,content_077,2024-01-18,1013,3034,0.3338826631509558,horror,horror,movie,6.6,basic,59,CA,13.99,Medium
+user_013,content_090,2024-03-14,1005,1826,0.5503833515881709,comedy,comedy,documentary,6.1,basic,59,CA,13.99,Short
+user_013,content_093,2024-03-03,203,3006,0.06753160345974717,drama,drama,documentary,9.4,basic,59,CA,13.99,Medium
+user_013,content_100,2024-03-07,989,2709,0.36507936507936506,thriller,thriller,documentary,8.5,basic,59,CA,13.99,Medium
+user_014,content_008,2024-03-10,99,907,0.10915104740904079,sci-fi,sci-fi,movie,6.3,basic,25,BR,8.99,Very Short
+user_014,content_020,2024-01-29,1318,3296,0.39987864077669905,sci-fi,sci-fi,movie,6.4,basic,25,BR,8.99,Medium
+user_014,content_020,2024-02-11,916,4777,0.1917521456981369,sci-fi,sci-fi,movie,6.4,basic,25,BR,8.99,Very Long
+user_014,content_029,2024-03-27,558,3496,0.15961098398169338,sci-fi,sci-fi,series,8.0,basic,25,BR,8.99,Long
+user_014,content_037,2024-01-22,732,4051,0.180696124413725,thriller,thriller,documentary,7.0,basic,25,BR,8.99,Long
+user_014,content_042,2024-01-25,441,4315,0.10220162224797219,thriller,thriller,documentary,9.1,basic,25,BR,8.99,Long
+user_014,content_044,2024-01-19,806,4538,0.17761128250330543,drama,drama,movie,7.0,basic,25,BR,8.99,Very Long
+user_014,content_044,2024-03-05,193,1889,0.10217046056114346,drama,drama,movie,7.0,basic,25,BR,8.99,Short
+user_014,content_053,2024-03-07,82,3416,0.024004683840749413,comedy,comedy,movie,7.1,basic,25,BR,8.99,Medium
+user_014,content_066,2024-01-22,327,3360,0.09732142857142857,drama,drama,series,8.0,basic,25,BR,8.99,Medium
+user_014,content_074,2024-02-15,493,761,0.6478318002628121,thriller,thriller,series,8.1,basic,25,BR,8.99,Very Short
+user_014,content_075,2024-01-07,718,4525,0.15867403314917128,sci-fi,sci-fi,series,8.9,basic,25,BR,8.99,Very Long
+user_014,content_076,2024-03-23,77,1082,0.0711645101663586,documentary,documentary,documentary,8.9,basic,25,BR,8.99,Very Short
+user_014,content_092,2024-02-06,1260,1621,0.7772979642196175,sci-fi,sci-fi,documentary,7.3,basic,25,BR,8.99,Very Short
+user_014,content_098,2024-03-16,368,1938,0.18988648090815274,horror,horror,documentary,6.8,basic,25,BR,8.99,Short
+user_014,content_098,2024-03-28,334,3824,0.08734309623430962,horror,horror,documentary,6.8,basic,25,BR,8.99,Long
+user_014,content_099,2024-02-02,31,2342,0.013236549957301452,thriller,thriller,series,6.1,basic,25,BR,8.99,Short
+user_015,content_004,2024-01-08,317,1445,0.2193771626297578,drama,drama,documentary,7.3,standard,44,BR,8.99,Very Short
+user_015,content_007,2024-02-22,1661,6959,0.23868371892513293,drama,drama,documentary,7.5,standard,44,BR,8.99,Very Long
+user_015,content_012,2024-01-02,506,2036,0.24852652259332023,sci-fi,sci-fi,series,8.0,standard,44,BR,8.99,Short
+user_015,content_017,2024-03-29,84,849,0.0989399293286219,comedy,comedy,documentary,6.7,standard,44,BR,8.99,Very Short
+user_015,content_018,2024-03-04,29,782,0.0370843989769821,thriller,thriller,movie,8.6,standard,44,BR,8.99,Very Short
+user_015,content_020,2024-02-20,120,2371,0.05061155630535639,sci-fi,sci-fi,movie,6.4,standard,44,BR,8.99,Short
+user_015,content_028,2024-01-03,345,2719,0.12688488414858404,romance,romance,movie,9.0,standard,44,BR,8.99,Medium
+user_015,content_029,2024-01-28,642,1959,0.327718223583461,sci-fi,sci-fi,series,8.0,standard,44,BR,8.99,Short
+user_015,content_029,2024-03-25,2037,6529,0.3119926481850207,sci-fi,sci-fi,series,8.0,standard,44,BR,8.99,Very Long
+user_015,content_039,2024-03-24,214,2219,0.0964398377647589,horror,horror,documentary,8.3,standard,44,BR,8.99,Short
+user_015,content_043,2024-03-17,68,2568,0.0264797507788162,comedy,comedy,documentary,9.3,standard,44,BR,8.99,Short
+user_015,content_048,2024-03-18,2675,5962,0.4486749412948675,thriller,thriller,movie,7.2,standard,44,BR,8.99,Very Long
+user_015,content_059,2024-03-12,774,2516,0.307631160572337,comedy,comedy,movie,6.7,standard,44,BR,8.99,Short
+user_015,content_067,2024-01-02,199,4286,0.04643023798413439,thriller,thriller,movie,9.0,standard,44,BR,8.99,Long
+user_015,content_096,2024-02-25,4530,9065,0.4997242140099283,action,action,series,8.4,standard,44,BR,8.99,Very Long
+user_016,content_021,2024-03-14,125,2488,0.050241157556270094,horror,horror,movie,7.8,basic,69,DE,13.99,Short
+user_016,content_022,2024-03-03,148,1555,0.09517684887459807,comedy,comedy,series,7.1,basic,69,DE,13.99,Very Short
+user_016,content_034,2024-01-17,301,1969,0.15286947689182326,drama,drama,documentary,7.1,basic,69,DE,13.99,Short
+user_016,content_042,2024-03-15,279,3620,0.0770718232044199,thriller,thriller,documentary,9.1,basic,69,DE,13.99,Long
+user_016,content_047,2024-03-28,3143,5830,0.5391080617495712,romance,romance,series,8.1,basic,69,DE,13.99,Very Long
+user_016,content_052,2024-03-13,1713,7706,0.22229431611731118,horror,horror,movie,6.6,basic,69,DE,13.99,Very Long
+user_016,content_056,2024-02-21,404,3924,0.10295616717635066,action,action,series,7.4,basic,69,DE,13.99,Long
+user_016,content_057,2024-02-06,336,3166,0.10612760581174985,romance,romance,movie,7.4,basic,69,DE,13.99,Medium
+user_016,content_061,2024-01-10,723,2145,0.33706293706293705,sci-fi,sci-fi,movie,6.9,basic,69,DE,13.99,Short
+user_016,content_061,2024-03-18,854,4349,0.19636698091515292,sci-fi,sci-fi,movie,6.9,basic,69,DE,13.99,Long
+user_016,content_062,2024-03-25,236,4284,0.055088702147525676,romance,romance,series,7.9,basic,69,DE,13.99,Long
+user_016,content_063,2024-03-08,60,2671,0.022463496817671284,comedy,comedy,series,6.1,basic,69,DE,13.99,Medium
+user_016,content_064,2024-01-15,744,1656,0.4492753623188406,documentary,documentary,movie,6.9,basic,69,DE,13.99,Very Short
+user_016,content_071,2024-03-17,462,3471,0.1331028522039758,action,action,series,9.4,basic,69,DE,13.99,Long
+user_016,content_082,2024-03-07,194,2350,0.0825531914893617,horror,horror,documentary,7.6,basic,69,DE,13.99,Short
+user_016,content_096,2024-03-09,563,3647,0.1543734576364135,action,action,series,8.4,basic,69,DE,13.99,Long
+user_016,content_099,2024-03-27,99,1897,0.0521876647337902,thriller,thriller,series,6.1,basic,69,DE,13.99,Short
+user_016,content_100,2024-02-16,89,754,0.11803713527851459,thriller,thriller,documentary,8.5,basic,69,DE,13.99,Very Short
+user_017,content_006,2024-03-31,343,3518,0.09749857873791927,documentary,documentary,series,7.6,standard,50,UK,8.99,Long
+user_017,content_007,2024-01-29,23,1059,0.021718602455146365,drama,drama,documentary,7.5,standard,50,UK,8.99,Very Short
+user_017,content_009,2024-03-22,619,4773,0.12968782736224596,sci-fi,sci-fi,movie,7.7,standard,50,UK,8.99,Very Long
+user_017,content_011,2024-03-21,718,2791,0.2572554639914009,sci-fi,sci-fi,documentary,8.0,standard,50,UK,8.99,Medium
+user_017,content_014,2024-01-07,5327,6982,0.7629619020338012,thriller,thriller,documentary,9.4,standard,50,UK,8.99,Very Long
+user_017,content_014,2024-02-13,1671,6373,0.26219990585281655,thriller,thriller,documentary,9.4,standard,50,UK,8.99,Very Long
+user_017,content_021,2024-02-25,148,2881,0.05137105171815342,horror,horror,movie,7.8,standard,50,UK,8.99,Medium
+user_017,content_023,2024-02-21,131,2077,0.06307173808377467,romance,romance,series,7.0,standard,50,UK,8.99,Short
+user_017,content_027,2024-01-26,496,1964,0.2525458248472505,thriller,thriller,movie,6.4,standard,50,UK,8.99,Short
+user_017,content_031,2024-02-27,825,3904,0.21132172131147542,thriller,thriller,documentary,8.9,standard,50,UK,8.99,Long
+user_017,content_046,2024-03-15,125,1557,0.08028259473346179,thriller,thriller,movie,8.8,standard,50,UK,8.99,Very Short
+user_017,content_048,2024-01-27,98,1429,0.06857942617214835,thriller,thriller,movie,7.2,standard,50,UK,8.99,Very Short
+user_017,content_067,2024-02-25,1162,4697,0.2473919523099851,thriller,thriller,movie,9.0,standard,50,UK,8.99,Very Long
+user_017,content_069,2024-02-02,659,2812,0.23435277382645803,drama,drama,movie,7.9,standard,50,UK,8.99,Medium
+user_017,content_083,2024-02-28,152,1418,0.1071932299012694,documentary,documentary,documentary,9.4,standard,50,UK,8.99,Very Short
+user_017,content_086,2024-03-08,525,3785,0.13870541611624834,drama,drama,documentary,9.2,standard,50,UK,8.99,Long
+user_017,content_099,2024-01-22,393,4776,0.08228643216080402,thriller,thriller,series,6.1,standard,50,UK,8.99,Very Long
+user_018,content_025,2024-02-12,3872,5112,0.7574334898278561,sci-fi,sci-fi,movie,9.3,standard,41,JP,13.99,Very Long
+user_018,content_026,2024-01-17,183,2373,0.07711757269279393,horror,horror,series,6.8,standard,41,JP,13.99,Short
+user_018,content_028,2024-01-15,100,3064,0.03263707571801567,romance,romance,movie,9.0,standard,41,JP,13.99,Medium
+user_018,content_029,2024-01-25,676,906,0.7461368653421634,sci-fi,sci-fi,series,8.0,standard,41,JP,13.99,Very Short
+user_018,content_032,2024-01-04,3436,5973,0.5752553155868073,drama,drama,movie,7.8,standard,41,JP,13.99,Very Long
+user_018,content_033,2024-03-19,65,3622,0.017945886250690227,thriller,thriller,series,8.3,standard,41,JP,13.99,Long
+user_018,content_037,2024-02-18,355,1365,0.2600732600732601,thriller,thriller,documentary,7.0,standard,41,JP,13.99,Very Short
+user_018,content_047,2024-03-22,214,2822,0.07583274273564848,romance,romance,series,8.1,standard,41,JP,13.99,Medium
+user_018,content_050,2024-02-23,510,2155,0.23665893271461716,romance,romance,series,6.9,standard,41,JP,13.99,Short
+user_018,content_057,2024-02-02,652,2598,0.25096227867590454,romance,romance,movie,7.4,standard,41,JP,13.99,Medium
+user_018,content_058,2024-01-19,261,4193,0.0622466014786549,romance,romance,series,7.3,standard,41,JP,13.99,Long
+user_018,content_074,2024-02-24,1313,1843,0.7124253933803582,thriller,thriller,series,8.1,standard,41,JP,13.99,Short
+user_018,content_075,2024-02-20,490,3853,0.12717363093693226,sci-fi,sci-fi,series,8.9,standard,41,JP,13.99,Long
+user_018,content_082,2024-01-10,2576,5728,0.44972067039106145,horror,horror,documentary,7.6,standard,41,JP,13.99,Very Long
+user_018,content_082,2024-02-05,762,2287,0.3331875819851334,horror,horror,documentary,7.6,standard,41,JP,13.99,Short
+user_018,content_090,2024-03-10,89,3025,0.029421487603305783,comedy,comedy,documentary,6.1,standard,41,JP,13.99,Medium
+user_018,content_094,2024-02-17,779,2871,0.2713340299547196,comedy,comedy,series,7.3,standard,41,JP,13.99,Medium
+user_018,content_097,2024-02-06,249,613,0.4061990212071778,romance,romance,movie,6.3,standard,41,JP,13.99,Very Short
+user_018,content_099,2024-03-29,825,2691,0.30657748049052397,thriller,thriller,series,6.1,standard,41,JP,13.99,Medium
+user_019,content_010,2024-03-05,404,4566,0.08848007008322382,thriller,thriller,movie,7.3,standard,58,JP,8.99,Very Long
+user_019,content_027,2024-01-05,202,3509,0.057566258193217444,thriller,thriller,movie,6.4,standard,58,JP,8.99,Long
+user_019,content_027,2024-03-15,309,2528,0.12223101265822785,thriller,thriller,movie,6.4,standard,58,JP,8.99,Short
+user_019,content_031,2024-02-12,198,1732,0.11431870669745958,thriller,thriller,documentary,8.9,standard,58,JP,8.99,Very Short
+user_019,content_032,2024-01-11,1654,6441,0.2567924235367179,drama,drama,movie,7.8,standard,58,JP,8.99,Very Long
+user_019,content_042,2024-03-23,346,4305,0.08037166085946573,thriller,thriller,documentary,9.1,standard,58,JP,8.99,Long
+user_019,content_044,2024-03-14,456,3848,0.11850311850311851,drama,drama,movie,7.0,standard,58,JP,8.99,Long
+user_019,content_045,2024-02-09,209,2091,0.09995217599234815,documentary,documentary,movie,8.9,standard,58,JP,8.99,Short
+user_019,content_046,2024-03-24,1213,2826,0.4292285916489738,thriller,thriller,movie,8.8,standard,58,JP,8.99,Medium
+user_019,content_048,2024-01-29,259,2902,0.08924879393521709,thriller,thriller,movie,7.2,standard,58,JP,8.99,Medium
+user_019,content_054,2024-03-03,70,1049,0.0667302192564347,sci-fi,sci-fi,documentary,6.6,standard,58,JP,8.99,Very Short
+user_019,content_056,2024-02-28,692,3583,0.19313424504605078,action,action,series,7.4,standard,58,JP,8.99,Long
+user_019,content_057,2024-01-17,54,552,0.09782608695652174,romance,romance,movie,7.4,standard,58,JP,8.99,Very Short
+user_019,content_061,2024-01-02,594,2294,0.25893635571054924,sci-fi,sci-fi,movie,6.9,standard,58,JP,8.99,Short
+user_019,content_066,2024-02-23,288,2816,0.10227272727272728,drama,drama,series,8.0,standard,58,JP,8.99,Medium
+user_019,content_079,2024-03-14,691,2467,0.28009728415079044,comedy,comedy,movie,8.5,standard,58,JP,8.99,Short
+user_019,content_080,2024-01-25,2541,6515,0.390023023791251,horror,horror,series,6.7,standard,58,JP,8.99,Very Long
+user_019,content_083,2024-01-16,1055,4714,0.22380144251166736,documentary,documentary,documentary,9.4,standard,58,JP,8.99,Very Long
+user_019,content_084,2024-02-11,67,3423,0.019573473561203623,romance,romance,movie,7.6,standard,58,JP,8.99,Medium
+user_019,content_091,2024-03-30,624,2550,0.2447058823529412,thriller,thriller,documentary,6.4,standard,58,JP,8.99,Short
+user_019,content_092,2024-01-08,556,1115,0.49865470852017935,sci-fi,sci-fi,documentary,7.3,standard,58,JP,8.99,Very Short
+user_019,content_094,2024-02-23,466,1799,0.25903279599777657,comedy,comedy,series,7.3,standard,58,JP,8.99,Short
+user_019,content_095,2024-01-04,54,2298,0.02349869451697128,documentary,documentary,series,6.0,standard,58,JP,8.99,Short
+user_019,content_100,2024-03-18,330,3906,0.08448540706605223,thriller,thriller,documentary,8.5,standard,58,JP,8.99,Long
+user_020,content_002,2024-01-17,87,1367,0.06364301389904901,documentary,documentary,documentary,9.5,basic,66,BR,17.99,Very Short
+user_020,content_002,2024-01-25,1138,2582,0.4407436096049574,documentary,documentary,documentary,9.5,basic,66,BR,17.99,Medium
+user_020,content_013,2024-03-19,192,4619,0.041567438839575664,sci-fi,sci-fi,series,8.4,basic,66,BR,17.99,Very Long
+user_020,content_014,2024-01-04,1073,2984,0.35958445040214476,thriller,thriller,documentary,9.4,basic,66,BR,17.99,Medium
+user_020,content_018,2024-01-18,52,2524,0.020602218700475437,thriller,thriller,movie,8.6,basic,66,BR,17.99,Short
+user_020,content_024,2024-02-13,122,1157,0.10544511668107173,action,action,movie,6.5,basic,66,BR,17.99,Very Short
+user_020,content_026,2024-03-02,669,2311,0.28948507139766333,horror,horror,series,6.8,basic,66,BR,17.99,Short
+user_020,content_031,2024-01-31,797,4343,0.18351370020723,thriller,thriller,documentary,8.9,basic,66,BR,17.99,Long
+user_020,content_033,2024-01-16,131,3748,0.03495197438633938,thriller,thriller,series,8.3,basic,66,BR,17.99,Long
+user_020,content_035,2024-01-19,377,2674,0.14098728496634255,sci-fi,sci-fi,series,6.8,basic,66,BR,17.99,Medium
+user_020,content_036,2024-03-12,3330,8886,0.37474679270763,sci-fi,sci-fi,series,7.9,basic,66,BR,17.99,Very Long
+user_020,content_040,2024-03-03,84,811,0.10357583230579531,comedy,comedy,movie,9.3,basic,66,BR,17.99,Very Short
+user_020,content_047,2024-02-15,2068,2765,0.7479204339963834,romance,romance,series,8.1,basic,66,BR,17.99,Medium
+user_020,content_056,2024-02-10,258,1569,0.16443594646271512,action,action,series,7.4,basic,66,BR,17.99,Very Short
+user_020,content_064,2024-02-27,132,2137,0.06176883481516144,documentary,documentary,movie,6.9,basic,66,BR,17.99,Short
+user_020,content_065,2024-02-11,828,2862,0.2893081761006289,comedy,comedy,movie,8.7,basic,66,BR,17.99,Medium
+user_020,content_079,2024-01-02,425,3912,0.108640081799591,comedy,comedy,movie,8.5,basic,66,BR,17.99,Long
+user_020,content_079,2024-03-10,39,2254,0.01730257320319432,comedy,comedy,movie,8.5,basic,66,BR,17.99,Short
+user_020,content_080,2024-02-16,955,4768,0.20029362416107382,horror,horror,series,6.7,basic,66,BR,17.99,Very Long
+user_020,content_087,2024-03-20,27,2364,0.011421319796954314,thriller,thriller,movie,9.2,basic,66,BR,17.99,Short
+user_020,content_088,2024-01-16,58,2326,0.024935511607910577,drama,drama,series,7.9,basic,66,BR,17.99,Short
+user_020,content_088,2024-01-17,119,2355,0.0505307855626327,drama,drama,series,7.9,basic,66,BR,17.99,Short
+user_020,content_088,2024-01-29,502,2407,0.20855837141670128,drama,drama,series,7.9,basic,66,BR,17.99,Short
+user_020,content_091,2024-02-21,695,1251,0.5555555555555556,thriller,thriller,documentary,6.4,basic,66,BR,17.99,Very Short
+user_020,content_091,2024-02-29,516,3187,0.16190775023533102,thriller,thriller,documentary,6.4,basic,66,BR,17.99,Medium
+user_020,content_092,2024-02-24,547,1806,0.3028792912513843,sci-fi,sci-fi,documentary,7.3,basic,66,BR,17.99,Short
+user_020,content_099,2024-03-31,1151,2801,0.4109246697607997,thriller,thriller,series,6.1,basic,66,BR,17.99,Medium
+user_021,content_014,2024-02-11,1756,5278,0.332701780977643,thriller,thriller,documentary,9.4,standard,68,UK,8.99,Very Long
+user_021,content_016,2024-01-15,476,3961,0.12017167381974249,thriller,thriller,documentary,7.6,standard,68,UK,8.99,Long
+user_021,content_018,2024-02-25,462,2102,0.219790675547098,thriller,thriller,movie,8.6,standard,68,UK,8.99,Short
+user_021,content_019,2024-02-10,1742,5839,0.29833875663641035,romance,romance,movie,8.1,standard,68,UK,8.99,Very Long
+user_021,content_020,2024-03-20,317,4323,0.07332870691649318,sci-fi,sci-fi,movie,6.4,standard,68,UK,8.99,Long
+user_021,content_022,2024-02-28,170,2589,0.06566241792197759,comedy,comedy,series,7.1,standard,68,UK,8.99,Medium
+user_021,content_030,2024-02-11,2182,3931,0.5550750445179343,thriller,thriller,series,8.7,standard,68,UK,8.99,Long
+user_021,content_032,2024-03-23,914,2330,0.392274678111588,drama,drama,movie,7.8,standard,68,UK,8.99,Short
+user_021,content_033,2024-01-15,112,3806,0.029427220178665267,thriller,thriller,series,8.3,standard,68,UK,8.99,Long
+user_021,content_037,2024-01-11,244,4021,0.06068142253170853,thriller,thriller,documentary,7.0,standard,68,UK,8.99,Long
+user_021,content_040,2024-02-20,75,3663,0.020475020475020474,comedy,comedy,movie,9.3,standard,68,UK,8.99,Long
+user_021,content_041,2024-02-04,888,1861,0.47716281569048896,action,action,documentary,7.8,standard,68,UK,8.99,Short
+user_021,content_041,2024-03-31,542,2491,0.21758329987956643,action,action,documentary,7.8,standard,68,UK,8.99,Short
+user_021,content_049,2024-02-19,151,669,0.2257100149476831,drama,drama,series,6.1,standard,68,UK,8.99,Very Short
+user_021,content_061,2024-03-10,235,3828,0.06138975966562173,sci-fi,sci-fi,movie,6.9,standard,68,UK,8.99,Long
+user_021,content_063,2024-03-26,1301,3607,0.3606875519822567,comedy,comedy,series,6.1,standard,68,UK,8.99,Long
+user_021,content_065,2024-01-20,959,3383,0.28347620455217265,comedy,comedy,movie,8.7,standard,68,UK,8.99,Medium
+user_021,content_072,2024-02-26,58,1570,0.03694267515923567,horror,horror,documentary,9.4,standard,68,UK,8.99,Very Short
+user_021,content_085,2024-03-08,276,2597,0.10627647285329227,romance,romance,movie,9.2,standard,68,UK,8.99,Medium
+user_021,content_086,2024-03-31,414,2398,0.17264386989157632,drama,drama,documentary,9.2,standard,68,UK,8.99,Short
+user_021,content_093,2024-03-25,1819,5620,0.32366548042704624,drama,drama,documentary,9.4,standard,68,UK,8.99,Very Long
+user_022,content_001,2024-02-09,357,2864,0.12465083798882681,action,action,series,7.2,standard,44,DE,13.99,Medium
+user_022,content_009,2024-01-13,375,1883,0.19915029208709506,sci-fi,sci-fi,movie,7.7,standard,44,DE,13.99,Short
+user_022,content_009,2024-02-18,368,2595,0.1418111753371869,sci-fi,sci-fi,movie,7.7,standard,44,DE,13.99,Medium
+user_022,content_012,2024-03-27,578,2314,0.2497839239412273,sci-fi,sci-fi,series,8.0,standard,44,DE,13.99,Short
+user_022,content_014,2024-02-18,2018,6422,0.31423232637807536,thriller,thriller,documentary,9.4,standard,44,DE,13.99,Very Long
+user_022,content_016,2024-02-29,3274,8366,0.3913459239780062,thriller,thriller,documentary,7.6,standard,44,DE,13.99,Very Long
+user_022,content_017,2024-01-12,612,2409,0.25404732254047324,comedy,comedy,documentary,6.7,standard,44,DE,13.99,Short
+user_022,content_037,2024-03-23,244,4556,0.053555750658472345,thriller,thriller,documentary,7.0,standard,44,DE,13.99,Very Long
+user_022,content_039,2024-03-14,507,4235,0.11971664698937426,horror,horror,documentary,8.3,standard,44,DE,13.99,Long
+user_022,content_048,2024-03-15,150,520,0.28846153846153844,thriller,thriller,movie,7.2,standard,44,DE,13.99,Very Short
+user_022,content_054,2024-03-14,40,869,0.04602991944764097,sci-fi,sci-fi,documentary,6.6,standard,44,DE,13.99,Very Short
+user_022,content_058,2024-01-17,182,2560,0.07109375,romance,romance,series,7.3,standard,44,DE,13.99,Short
+user_022,content_062,2024-02-09,364,5002,0.07277089164334266,romance,romance,series,7.9,standard,44,DE,13.99,Very Long
+user_022,content_062,2024-02-27,317,2944,0.10767663043478261,romance,romance,series,7.9,standard,44,DE,13.99,Medium
+user_022,content_069,2024-03-01,3592,7148,0.502518186905428,drama,drama,movie,7.9,standard,44,DE,13.99,Very Long
+user_022,content_070,2024-01-03,128,2146,0.05964585274930102,sci-fi,sci-fi,documentary,7.6,standard,44,DE,13.99,Short
+user_022,content_073,2024-01-21,268,3353,0.07992842230838056,action,action,movie,9.3,standard,44,DE,13.99,Medium
+user_022,content_075,2024-01-31,62,1072,0.05783582089552239,sci-fi,sci-fi,series,8.9,standard,44,DE,13.99,Very Short
+user_022,content_080,2024-03-24,462,2029,0.22769837358304584,horror,horror,series,6.7,standard,44,DE,13.99,Short
+user_022,content_083,2024-03-01,805,1836,0.4384531590413943,documentary,documentary,documentary,9.4,standard,44,DE,13.99,Short
+user_022,content_083,2024-03-28,750,1786,0.41993281075027994,documentary,documentary,documentary,9.4,standard,44,DE,13.99,Short
+user_022,content_084,2024-01-29,4433,8118,0.5460704607046071,romance,romance,movie,7.6,standard,44,DE,13.99,Very Long
+user_022,content_089,2024-01-07,251,692,0.3627167630057804,thriller,thriller,series,7.9,standard,44,DE,13.99,Very Short
+user_022,content_092,2024-01-13,318,865,0.3676300578034682,sci-fi,sci-fi,documentary,7.3,standard,44,DE,13.99,Very Short
+user_022,content_098,2024-01-08,687,2075,0.3310843373493976,horror,horror,documentary,6.8,standard,44,DE,13.99,Short
+user_022,content_100,2024-01-10,164,2381,0.06887862242755145,thriller,thriller,documentary,8.5,standard,44,DE,13.99,Short
+user_023,content_009,2024-02-20,607,3775,0.16079470198675497,sci-fi,sci-fi,movie,7.7,premium,68,JP,13.99,Long
+user_023,content_010,2024-01-06,179,4532,0.03949691085613416,thriller,thriller,movie,7.3,premium,68,JP,13.99,Very Long
+user_023,content_015,2024-01-04,956,4058,0.23558403154263183,drama,drama,movie,7.8,premium,68,JP,13.99,Long
+user_023,content_019,2024-01-18,2992,5042,0.5934153113843713,romance,romance,movie,8.1,premium,68,JP,13.99,Very Long
+user_023,content_022,2024-03-10,774,1410,0.548936170212766,comedy,comedy,series,7.1,premium,68,JP,13.99,Very Short
+user_023,content_027,2024-03-30,63,2393,0.02632678646050982,thriller,thriller,movie,6.4,premium,68,JP,13.99,Short
+user_023,content_029,2024-03-24,292,1370,0.21313868613138687,sci-fi,sci-fi,series,8.0,premium,68,JP,13.99,Very Short
+user_023,content_035,2024-01-11,678,1996,0.3396793587174349,sci-fi,sci-fi,series,6.8,premium,68,JP,13.99,Short
+user_023,content_038,2024-01-22,895,2528,0.3540348101265823,comedy,comedy,movie,8.5,premium,68,JP,13.99,Short
+user_023,content_040,2024-01-14,439,1949,0.22524371472550025,comedy,comedy,movie,9.3,premium,68,JP,13.99,Short
+user_023,content_051,2024-01-07,148,719,0.20584144645340752,comedy,comedy,movie,7.9,premium,68,JP,13.99,Very Short
+user_023,content_051,2024-02-28,583,2413,0.24160795690012432,comedy,comedy,movie,7.9,premium,68,JP,13.99,Short
+user_023,content_052,2024-02-17,108,1267,0.08524072612470403,horror,horror,movie,6.6,premium,68,JP,13.99,Very Short
+user_023,content_057,2024-03-05,840,3928,0.21384928716904278,romance,romance,movie,7.4,premium,68,JP,13.99,Long
+user_023,content_067,2024-01-02,186,1775,0.1047887323943662,thriller,thriller,movie,9.0,premium,68,JP,13.99,Short
+user_023,content_069,2024-03-17,573,3605,0.15894590846047157,drama,drama,movie,7.9,premium,68,JP,13.99,Long
+user_023,content_077,2024-02-09,4969,8636,0.575382121352478,horror,horror,movie,6.6,premium,68,JP,13.99,Very Long
+user_023,content_087,2024-03-19,198,2849,0.0694980694980695,thriller,thriller,movie,9.2,premium,68,JP,13.99,Medium
+user_023,content_087,2024-03-30,69,3518,0.01961341671404207,thriller,thriller,movie,9.2,premium,68,JP,13.99,Long
+user_024,content_009,2024-03-23,1039,5167,0.20108380104509385,sci-fi,sci-fi,movie,7.7,basic,46,UK,8.99,Very Long
+user_024,content_014,2024-01-01,2078,3666,0.5668303327877796,thriller,thriller,documentary,9.4,basic,46,UK,8.99,Long
+user_024,content_014,2024-03-01,455,3707,0.12274076072295657,thriller,thriller,documentary,9.4,basic,46,UK,8.99,Long
+user_024,content_021,2024-01-14,390,2475,0.15757575757575756,horror,horror,movie,7.8,basic,46,UK,8.99,Short
+user_024,content_024,2024-03-03,137,1321,0.10370931112793338,action,action,movie,6.5,basic,46,UK,8.99,Very Short
+user_024,content_030,2024-03-26,4993,8372,0.5963927376970856,thriller,thriller,series,8.7,basic,46,UK,8.99,Very Long
+user_024,content_037,2024-02-25,956,4429,0.2158500790246105,thriller,thriller,documentary,7.0,basic,46,UK,8.99,Very Long
+user_024,content_048,2024-01-10,489,2774,0.17627974044700792,thriller,thriller,movie,7.2,basic,46,UK,8.99,Medium
+user_024,content_048,2024-02-19,128,3984,0.0321285140562249,thriller,thriller,movie,7.2,basic,46,UK,8.99,Long
+user_024,content_051,2024-03-16,133,2558,0.05199374511336982,comedy,comedy,movie,7.9,basic,46,UK,8.99,Short
+user_024,content_051,2024-03-30,832,3531,0.2356273010478618,comedy,comedy,movie,7.9,basic,46,UK,8.99,Long
+user_024,content_058,2024-01-28,98,1950,0.050256410256410255,romance,romance,series,7.3,basic,46,UK,8.99,Short
+user_024,content_059,2024-03-15,1069,4751,0.22500526205009472,comedy,comedy,movie,6.7,basic,46,UK,8.99,Very Long
+user_024,content_061,2024-02-09,165,4746,0.0347661188369153,sci-fi,sci-fi,movie,6.9,basic,46,UK,8.99,Very Long
+user_024,content_070,2024-02-26,1553,6796,0.2285167745732784,sci-fi,sci-fi,documentary,7.6,basic,46,UK,8.99,Very Long
+user_024,content_071,2024-03-07,460,2104,0.21863117870722434,action,action,series,9.4,basic,46,UK,8.99,Short
+user_024,content_072,2024-03-18,256,3434,0.07454863133372161,horror,horror,documentary,9.4,basic,46,UK,8.99,Medium
+user_024,content_074,2024-03-31,374,4580,0.0816593886462882,thriller,thriller,series,8.1,basic,46,UK,8.99,Very Long
+user_024,content_076,2024-01-26,895,4439,0.20162198693399414,documentary,documentary,documentary,8.9,basic,46,UK,8.99,Very Long
+user_024,content_079,2024-02-25,35,2352,0.01488095238095238,comedy,comedy,movie,8.5,basic,46,UK,8.99,Short
+user_024,content_097,2024-03-10,145,1666,0.08703481392557023,romance,romance,movie,6.3,basic,46,UK,8.99,Very Short
+user_025,content_026,2024-01-20,18,1805,0.009972299168975069,horror,horror,series,6.8,premium,69,FR,8.99,Short
+user_025,content_029,2024-03-01,669,1338,0.5,sci-fi,sci-fi,series,8.0,premium,69,FR,8.99,Very Short
+user_025,content_030,2024-02-28,158,4208,0.03754752851711027,thriller,thriller,series,8.7,premium,69,FR,8.99,Long
+user_025,content_032,2024-01-27,137,3690,0.03712737127371274,drama,drama,movie,7.8,premium,69,FR,8.99,Long
+user_025,content_034,2024-02-06,1151,2190,0.5255707762557078,drama,drama,documentary,7.1,premium,69,FR,8.99,Short
+user_025,content_036,2024-02-02,78,312,0.25,sci-fi,sci-fi,series,7.9,premium,69,FR,8.99,Very Short
+user_025,content_042,2024-03-23,79,3591,0.02199944305207463,thriller,thriller,documentary,9.1,premium,69,FR,8.99,Long
+user_025,content_044,2024-01-22,191,2508,0.07615629984051037,drama,drama,movie,7.0,premium,69,FR,8.99,Short
+user_025,content_046,2024-01-23,483,3734,0.12935190144617031,thriller,thriller,movie,8.8,premium,69,FR,8.99,Long
+user_025,content_052,2024-01-11,1343,3535,0.3799151343705799,horror,horror,movie,6.6,premium,69,FR,8.99,Long
+user_025,content_052,2024-02-25,318,3361,0.09461469800654568,horror,horror,movie,6.6,premium,69,FR,8.99,Medium
+user_025,content_057,2024-01-05,795,4724,0.1682895850973751,romance,romance,movie,7.4,premium,69,FR,8.99,Very Long
+user_025,content_061,2024-01-19,107,2132,0.05018761726078799,sci-fi,sci-fi,movie,6.9,premium,69,FR,8.99,Short
+user_025,content_064,2024-02-01,157,4543,0.034558661677305744,documentary,documentary,movie,6.9,premium,69,FR,8.99,Very Long
+user_025,content_068,2024-02-22,106,1188,0.08922558922558922,documentary,documentary,movie,7.3,premium,69,FR,8.99,Very Short
+user_025,content_081,2024-01-22,276,3294,0.08378870673952642,romance,romance,documentary,9.3,premium,69,FR,8.99,Medium
+user_025,content_087,2024-03-19,650,4305,0.15098722415795587,thriller,thriller,movie,9.2,premium,69,FR,8.99,Long
+user_025,content_089,2024-01-16,420,3587,0.11708948982436576,thriller,thriller,series,7.9,premium,69,FR,8.99,Long
+user_025,content_089,2024-03-31,507,2264,0.22393992932862192,thriller,thriller,series,7.9,premium,69,FR,8.99,Short
+user_026,content_007,2024-01-02,1063,3497,0.3039748355733486,drama,drama,documentary,7.5,basic,39,CA,13.99,Long
+user_026,content_010,2024-01-21,976,4699,0.20770376675888486,thriller,thriller,movie,7.3,basic,39,CA,13.99,Very Long
+user_026,content_010,2024-03-01,690,5130,0.13450292397660818,thriller,thriller,movie,7.3,basic,39,CA,13.99,Very Long
+user_026,content_013,2024-01-08,301,4016,0.07495019920318725,sci-fi,sci-fi,series,8.4,basic,39,CA,13.99,Long
+user_026,content_029,2024-01-12,221,3668,0.06025081788440567,sci-fi,sci-fi,series,8.0,basic,39,CA,13.99,Long
+user_026,content_039,2024-01-10,263,2085,0.12613908872901677,horror,horror,documentary,8.3,basic,39,CA,13.99,Short
+user_026,content_044,2024-02-27,706,3772,0.18716861081654296,drama,drama,movie,7.0,basic,39,CA,13.99,Long
+user_026,content_045,2024-02-07,313,2940,0.10646258503401361,documentary,documentary,movie,8.9,basic,39,CA,13.99,Medium
+user_026,content_054,2024-02-10,2768,7281,0.38016755940118113,sci-fi,sci-fi,documentary,6.6,basic,39,CA,13.99,Very Long
+user_026,content_060,2024-03-27,311,1841,0.16892992938620316,documentary,documentary,series,7.8,basic,39,CA,13.99,Short
+user_026,content_061,2024-03-01,354,2705,0.13086876155268024,sci-fi,sci-fi,movie,6.9,basic,39,CA,13.99,Medium
+user_026,content_064,2024-02-07,357,3139,0.11373048741637465,documentary,documentary,movie,6.9,basic,39,CA,13.99,Medium
+user_026,content_065,2024-01-31,311,942,0.33014861995753714,comedy,comedy,movie,8.7,basic,39,CA,13.99,Very Short
+user_026,content_065,2024-03-25,581,2731,0.21274258513365069,comedy,comedy,movie,8.7,basic,39,CA,13.99,Medium
+user_026,content_076,2024-03-25,575,1931,0.29777317452097357,documentary,documentary,documentary,8.9,basic,39,CA,13.99,Short
+user_026,content_081,2024-01-24,499,1064,0.46898496240601506,romance,romance,documentary,9.3,basic,39,CA,13.99,Very Short
+user_026,content_090,2024-02-10,91,1368,0.06652046783625731,comedy,comedy,documentary,6.1,basic,39,CA,13.99,Very Short
+user_026,content_096,2024-02-19,815,3113,0.26180533247671056,action,action,series,8.4,basic,39,CA,13.99,Medium
+user_026,content_100,2024-01-04,1088,3673,0.2962156275524095,thriller,thriller,documentary,8.5,basic,39,CA,13.99,Long
+user_027,content_006,2024-03-01,1466,6173,0.2374858253685404,documentary,documentary,series,7.6,basic,45,US,13.99,Very Long
+user_027,content_008,2024-02-23,203,5145,0.03945578231292517,sci-fi,sci-fi,movie,6.3,basic,45,US,13.99,Very Long
+user_027,content_011,2024-01-19,2798,6322,0.4425814615627966,sci-fi,sci-fi,documentary,8.0,basic,45,US,13.99,Very Long
+user_027,content_020,2024-02-18,600,2148,0.27932960893854747,sci-fi,sci-fi,movie,6.4,basic,45,US,13.99,Short
+user_027,content_022,2024-03-11,352,724,0.4861878453038674,comedy,comedy,series,7.1,basic,45,US,13.99,Very Short
+user_027,content_034,2024-02-08,889,4604,0.1930929626411816,drama,drama,documentary,7.1,basic,45,US,13.99,Very Long
+user_027,content_041,2024-03-02,147,3408,0.043133802816901406,action,action,documentary,7.8,basic,45,US,13.99,Medium
+user_027,content_045,2024-03-25,1993,3500,0.5694285714285714,documentary,documentary,movie,8.9,basic,45,US,13.99,Long
+user_027,content_059,2024-02-24,620,2727,0.22735606894022736,comedy,comedy,movie,6.7,basic,45,US,13.99,Medium
+user_027,content_065,2024-03-01,53,2311,0.02293379489398529,comedy,comedy,movie,8.7,basic,45,US,13.99,Short
+user_027,content_065,2024-03-12,1509,3189,0.47318908748824084,comedy,comedy,movie,8.7,basic,45,US,13.99,Medium
+user_027,content_069,2024-03-18,189,2294,0.08238884045335658,drama,drama,movie,7.9,basic,45,US,13.99,Short
+user_027,content_079,2024-01-28,61,3347,0.018225276366895728,comedy,comedy,movie,8.5,basic,45,US,13.99,Medium
+user_027,content_087,2024-01-18,184,3252,0.056580565805658053,thriller,thriller,movie,9.2,basic,45,US,13.99,Medium
+user_027,content_089,2024-02-06,1298,1876,0.6918976545842217,thriller,thriller,series,7.9,basic,45,US,13.99,Short
+user_027,content_096,2024-03-07,4455,8512,0.5233787593984962,action,action,series,8.4,basic,45,US,13.99,Very Long
+user_028,content_002,2024-01-14,48,3102,0.015473887814313346,documentary,documentary,documentary,9.5,basic,60,JP,8.99,Medium
+user_028,content_015,2024-03-19,410,3730,0.10991957104557641,drama,drama,movie,7.8,basic,60,JP,8.99,Long
+user_028,content_019,2024-03-08,956,2193,0.4359325125398997,romance,romance,movie,8.1,basic,60,JP,8.99,Short
+user_028,content_021,2024-01-13,1394,4711,0.2959032052642751,horror,horror,movie,7.8,basic,60,JP,8.99,Very Long
+user_028,content_026,2024-03-24,109,3302,0.033010296789824346,horror,horror,series,6.8,basic,60,JP,8.99,Medium
+user_028,content_027,2024-03-30,374,2726,0.1371973587674248,thriller,thriller,movie,6.4,basic,60,JP,8.99,Medium
+user_028,content_038,2024-01-30,275,2511,0.10951812027080844,comedy,comedy,movie,8.5,basic,60,JP,8.99,Short
+user_028,content_047,2024-03-31,309,3084,0.10019455252918288,romance,romance,series,8.1,basic,60,JP,8.99,Medium
+user_028,content_049,2024-02-27,3161,7257,0.4355794405401681,drama,drama,series,6.1,basic,60,JP,8.99,Very Long
+user_028,content_051,2024-01-21,537,4775,0.1124607329842932,comedy,comedy,movie,7.9,basic,60,JP,8.99,Very Long
+user_028,content_074,2024-03-31,123,2311,0.053223712678494156,thriller,thriller,series,8.1,basic,60,JP,8.99,Short
+user_028,content_079,2024-02-12,371,2748,0.13500727802037846,comedy,comedy,movie,8.5,basic,60,JP,8.99,Medium
+user_028,content_084,2024-03-31,1590,2367,0.6717363751584284,romance,romance,movie,7.6,basic,60,JP,8.99,Short
+user_028,content_088,2024-03-03,1480,4263,0.3471733520994605,drama,drama,series,7.9,basic,60,JP,8.99,Long
+user_028,content_089,2024-01-10,3046,4441,0.6858815582076109,thriller,thriller,series,7.9,basic,60,JP,8.99,Very Long
+user_028,content_093,2024-02-05,732,2369,0.30899113550021107,drama,drama,documentary,9.4,basic,60,JP,8.99,Short
+user_028,content_095,2024-02-02,180,1413,0.12738853503184713,documentary,documentary,series,6.0,basic,60,JP,8.99,Very Short
+user_028,content_095,2024-03-18,82,3008,0.02726063829787234,documentary,documentary,series,6.0,basic,60,JP,8.99,Medium
+user_029,content_005,2024-02-16,99,1582,0.06257901390644753,documentary,documentary,movie,7.1,premium,21,JP,17.99,Very Short
+user_029,content_009,2024-01-26,293,869,0.33716915995397007,sci-fi,sci-fi,movie,7.7,premium,21,JP,17.99,Very Short
+user_029,content_020,2024-03-19,2018,3521,0.5731326327747799,sci-fi,sci-fi,movie,6.4,premium,21,JP,17.99,Long
+user_029,content_023,2024-02-21,203,3616,0.05613938053097345,romance,romance,series,7.0,premium,21,JP,17.99,Long
+user_029,content_023,2024-03-16,243,4196,0.05791229742612011,romance,romance,series,7.0,premium,21,JP,17.99,Long
+user_029,content_024,2024-02-18,27,2097,0.012875536480686695,action,action,movie,6.5,premium,21,JP,17.99,Short
+user_029,content_043,2024-03-24,231,3145,0.07344992050874403,comedy,comedy,documentary,9.3,premium,21,JP,17.99,Medium
+user_029,content_049,2024-03-08,161,2869,0.05611711397699547,drama,drama,series,6.1,premium,21,JP,17.99,Medium
+user_029,content_050,2024-01-29,136,3665,0.037107776261937245,romance,romance,series,6.9,premium,21,JP,17.99,Long
+user_029,content_050,2024-02-04,184,4024,0.04572564612326044,romance,romance,series,6.9,premium,21,JP,17.99,Long
+user_029,content_051,2024-02-06,393,3436,0.11437718277066357,comedy,comedy,movie,7.9,premium,21,JP,17.99,Medium
+user_029,content_057,2024-03-16,757,1470,0.5149659863945578,romance,romance,movie,7.4,premium,21,JP,17.99,Very Short
+user_029,content_063,2024-01-03,158,1763,0.08961996596710153,comedy,comedy,series,6.1,premium,21,JP,17.99,Short
+user_029,content_071,2024-01-07,2264,7530,0.30066401062417,action,action,series,9.4,premium,21,JP,17.99,Very Long
+user_029,content_072,2024-02-01,61,765,0.07973856209150326,horror,horror,documentary,9.4,premium,21,JP,17.99,Very Short
+user_029,content_077,2024-02-01,2875,4554,0.6313131313131313,horror,horror,movie,6.6,premium,21,JP,17.99,Very Long
+user_029,content_077,2024-02-13,82,3732,0.02197213290460879,horror,horror,movie,6.6,premium,21,JP,17.99,Long
+user_029,content_079,2024-02-24,281,2228,0.12612208258527827,comedy,comedy,movie,8.5,premium,21,JP,17.99,Short
+user_029,content_080,2024-02-15,624,4757,0.13117511036367457,horror,horror,series,6.7,premium,21,JP,17.99,Very Long
+user_029,content_095,2024-02-26,1039,4694,0.22134639965913933,documentary,documentary,series,6.0,premium,21,JP,17.99,Very Long
+user_029,content_096,2024-02-03,690,4524,0.15251989389920426,action,action,series,8.4,premium,21,JP,17.99,Very Long
+user_029,content_100,2024-03-06,613,1892,0.3239957716701903,thriller,thriller,documentary,8.5,premium,21,JP,17.99,Short
+user_030,content_001,2024-02-18,55,3276,0.016788766788766788,action,action,series,7.2,premium,51,CA,13.99,Medium
+user_030,content_002,2024-02-22,141,3414,0.04130052724077329,documentary,documentary,documentary,9.5,premium,51,CA,13.99,Medium
+user_030,content_006,2024-03-24,4059,9484,0.42798397300716995,documentary,documentary,series,7.6,premium,51,CA,13.99,Very Long
+user_030,content_012,2024-02-20,390,1604,0.243142144638404,sci-fi,sci-fi,series,8.0,premium,51,CA,13.99,Very Short
+user_030,content_023,2024-02-20,395,2197,0.17979062357760583,romance,romance,series,7.0,premium,51,CA,13.99,Short
+user_030,content_026,2024-03-30,527,3340,0.15778443113772456,horror,horror,series,6.8,premium,51,CA,13.99,Medium
+user_030,content_034,2024-02-04,85,720,0.11805555555555555,drama,drama,documentary,7.1,premium,51,CA,13.99,Very Short
+user_030,content_053,2024-01-25,4718,7441,0.6340545625587959,comedy,comedy,movie,7.1,premium,51,CA,13.99,Very Long
+user_030,content_059,2024-01-22,375,1306,0.2871362940275651,comedy,comedy,movie,6.7,premium,51,CA,13.99,Very Short
+user_030,content_060,2024-03-31,925,4244,0.21795475966069747,documentary,documentary,series,7.8,premium,51,CA,13.99,Long
+user_030,content_064,2024-03-04,603,2737,0.22031421264157838,documentary,documentary,movie,6.9,premium,51,CA,13.99,Medium
+user_030,content_065,2024-03-22,42,1647,0.025500910746812388,comedy,comedy,movie,8.7,premium,51,CA,13.99,Very Short
+user_030,content_069,2024-02-18,2508,5275,0.47545023696682465,drama,drama,movie,7.9,premium,51,CA,13.99,Very Long
+user_030,content_073,2024-03-11,239,2329,0.10261914984972091,action,action,movie,9.3,premium,51,CA,13.99,Short
+user_030,content_075,2024-01-06,1341,4387,0.30567586049692275,sci-fi,sci-fi,series,8.9,premium,51,CA,13.99,Very Long
+user_030,content_087,2024-01-16,144,4006,0.03594608087868198,thriller,thriller,movie,9.2,premium,51,CA,13.99,Long
+user_030,content_087,2024-03-23,290,2536,0.11435331230283911,thriller,thriller,movie,9.2,premium,51,CA,13.99,Short
+user_030,content_091,2024-01-18,957,2949,0.32451678535096645,thriller,thriller,documentary,6.4,premium,51,CA,13.99,Medium
+user_030,content_091,2024-02-26,288,4832,0.059602649006622516,thriller,thriller,documentary,6.4,premium,51,CA,13.99,Very Long
+user_030,content_091,2024-02-28,800,1299,0.6158583525789069,thriller,thriller,documentary,6.4,premium,51,CA,13.99,Very Short
+user_030,content_097,2024-03-20,554,2582,0.21456235476374902,romance,romance,movie,6.3,premium,51,CA,13.99,Medium
+user_031,content_005,2024-03-02,649,2375,0.2732631578947368,documentary,documentary,movie,7.1,standard,61,JP,17.99,Short
+user_031,content_025,2024-03-27,388,4192,0.09255725190839695,sci-fi,sci-fi,movie,9.3,standard,61,JP,17.99,Long
+user_031,content_037,2024-01-02,258,1417,0.18207480592801695,thriller,thriller,documentary,7.0,standard,61,JP,17.99,Very Short
+user_031,content_038,2024-01-15,227,1272,0.17845911949685533,comedy,comedy,movie,8.5,standard,61,JP,17.99,Very Short
+user_031,content_042,2024-01-01,282,3629,0.07770735739873243,thriller,thriller,documentary,9.1,standard,61,JP,17.99,Long
+user_031,content_045,2024-01-13,1074,2792,0.3846704871060172,documentary,documentary,movie,8.9,standard,61,JP,17.99,Medium
+user_031,content_050,2024-01-05,4941,6342,0.7790917691579943,romance,romance,series,6.9,standard,61,JP,17.99,Very Long
+user_031,content_075,2024-03-26,909,4886,0.18604175194433073,sci-fi,sci-fi,series,8.9,standard,61,JP,17.99,Very Long
+user_031,content_080,2024-02-01,424,2074,0.20443587270973965,horror,horror,series,6.7,standard,61,JP,17.99,Short
+user_031,content_081,2024-03-28,6799,8117,0.8376247382037698,romance,romance,documentary,9.3,standard,61,JP,17.99,Very Long
+user_031,content_084,2024-03-24,1281,2565,0.4994152046783626,romance,romance,movie,7.6,standard,61,JP,17.99,Short
+user_031,content_085,2024-01-03,539,1237,0.4357316087308003,romance,romance,movie,9.2,standard,61,JP,17.99,Very Short
+user_031,content_090,2024-02-27,865,4064,0.2128444881889764,comedy,comedy,documentary,6.1,standard,61,JP,17.99,Long
+user_031,content_091,2024-02-19,485,3768,0.12871549893842887,thriller,thriller,documentary,6.4,standard,61,JP,17.99,Long
+user_031,content_099,2024-01-11,535,2228,0.24012567324955117,thriller,thriller,series,6.1,standard,61,JP,17.99,Short
+user_031,content_099,2024-02-14,357,3320,0.10753012048192771,thriller,thriller,series,6.1,standard,61,JP,17.99,Medium
+user_032,content_004,2024-03-11,665,1548,0.42958656330749356,drama,drama,documentary,7.3,standard,64,JP,13.99,Very Short
+user_032,content_004,2024-03-28,297,1550,0.19161290322580646,drama,drama,documentary,7.3,standard,64,JP,13.99,Very Short
+user_032,content_009,2024-02-16,567,4774,0.1187683284457478,sci-fi,sci-fi,movie,7.7,standard,64,JP,13.99,Very Long
+user_032,content_012,2024-02-27,164,2031,0.08074839980305268,sci-fi,sci-fi,series,8.0,standard,64,JP,13.99,Short
+user_032,content_019,2024-01-10,156,3319,0.047002109068996684,romance,romance,movie,8.1,standard,64,JP,13.99,Medium
+user_032,content_020,2024-03-09,460,2605,0.1765834932821497,sci-fi,sci-fi,movie,6.4,standard,64,JP,13.99,Medium
+user_032,content_024,2024-01-30,45,940,0.047872340425531915,action,action,movie,6.5,standard,64,JP,13.99,Very Short
+user_032,content_026,2024-01-18,1425,2073,0.6874095513748191,horror,horror,series,6.8,standard,64,JP,13.99,Short
+user_032,content_028,2024-03-01,62,3104,0.01997422680412371,romance,romance,movie,9.0,standard,64,JP,13.99,Medium
+user_032,content_031,2024-03-16,517,2798,0.1847748391708363,thriller,thriller,documentary,8.9,standard,64,JP,13.99,Medium
+user_032,content_039,2024-01-27,54,1165,0.0463519313304721,horror,horror,documentary,8.3,standard,64,JP,13.99,Very Short
+user_032,content_042,2024-01-01,1093,4156,0.2629932627526468,thriller,thriller,documentary,9.1,standard,64,JP,13.99,Long
+user_032,content_042,2024-03-03,698,3087,0.22610949141561387,thriller,thriller,documentary,9.1,standard,64,JP,13.99,Medium
+user_032,content_045,2024-03-05,153,719,0.21279554937413073,documentary,documentary,movie,8.9,standard,64,JP,13.99,Very Short
+user_032,content_048,2024-03-30,59,453,0.13024282560706402,thriller,thriller,movie,7.2,standard,64,JP,13.99,Very Short
+user_032,content_049,2024-03-10,1156,4987,0.23180268698616402,drama,drama,series,6.1,standard,64,JP,13.99,Very Long
+user_032,content_058,2024-01-16,157,1818,0.08635863586358636,romance,romance,series,7.3,standard,64,JP,13.99,Short
+user_032,content_062,2024-01-01,146,1022,0.14285714285714285,romance,romance,series,7.9,standard,64,JP,13.99,Very Short
+user_032,content_068,2024-01-06,184,1318,0.13960546282245828,documentary,documentary,movie,7.3,standard,64,JP,13.99,Very Short
+user_032,content_070,2024-01-23,38,1196,0.03177257525083612,sci-fi,sci-fi,documentary,7.6,standard,64,JP,13.99,Very Short
+user_032,content_072,2024-03-29,1156,3352,0.3448687350835322,horror,horror,documentary,9.4,standard,64,JP,13.99,Medium
+user_032,content_079,2024-02-05,303,2634,0.11503416856492027,comedy,comedy,movie,8.5,standard,64,JP,13.99,Medium
+user_032,content_081,2024-02-07,354,4345,0.08147295742232451,romance,romance,documentary,9.3,standard,64,JP,13.99,Long
+user_032,content_098,2024-01-17,3404,7141,0.47668393782383417,horror,horror,documentary,6.8,standard,64,JP,13.99,Very Long
+user_032,content_099,2024-02-28,53,2305,0.02299349240780911,thriller,thriller,series,6.1,standard,64,JP,13.99,Short
+user_033,content_014,2024-03-22,124,1998,0.062062062062062065,thriller,thriller,documentary,9.4,standard,18,BR,13.99,Short
+user_033,content_018,2024-01-21,796,4790,0.1661795407098121,thriller,thriller,movie,8.6,standard,18,BR,13.99,Very Long
+user_033,content_019,2024-01-12,455,1092,0.4166666666666667,romance,romance,movie,8.1,standard,18,BR,13.99,Very Short
+user_033,content_021,2024-03-10,113,1154,0.09792027729636049,horror,horror,movie,7.8,standard,18,BR,13.99,Very Short
+user_033,content_035,2024-02-06,6956,9535,0.7295228106974305,sci-fi,sci-fi,series,6.8,standard,18,BR,13.99,Very Long
+user_033,content_036,2024-03-21,1161,5744,0.20212395543175488,sci-fi,sci-fi,series,7.9,standard,18,BR,13.99,Very Long
+user_033,content_039,2024-02-10,766,2083,0.36773883821411424,horror,horror,documentary,8.3,standard,18,BR,13.99,Short
+user_033,content_039,2024-03-25,258,2116,0.1219281663516068,horror,horror,documentary,8.3,standard,18,BR,13.99,Short
+user_033,content_050,2024-03-17,517,1605,0.3221183800623053,romance,romance,series,6.9,standard,18,BR,13.99,Very Short
+user_033,content_059,2024-01-03,426,2510,0.1697211155378486,comedy,comedy,movie,6.7,standard,18,BR,13.99,Short
+user_033,content_059,2024-01-24,532,3862,0.13775245986535473,comedy,comedy,movie,6.7,standard,18,BR,13.99,Long
+user_033,content_068,2024-01-08,79,2877,0.02745915884602016,documentary,documentary,movie,7.3,standard,18,BR,13.99,Medium
+user_033,content_069,2024-03-31,120,2540,0.047244094488188976,drama,drama,movie,7.9,standard,18,BR,13.99,Short
+user_033,content_072,2024-03-24,447,4138,0.10802319961333978,horror,horror,documentary,9.4,standard,18,BR,13.99,Long
+user_033,content_083,2024-01-28,223,2847,0.0783280646294345,documentary,documentary,documentary,9.4,standard,18,BR,13.99,Medium
+user_033,content_088,2024-01-20,285,2941,0.09690581434886093,drama,drama,series,7.9,standard,18,BR,13.99,Medium
+user_033,content_091,2024-02-10,3734,5551,0.6726715907043775,thriller,thriller,documentary,6.4,standard,18,BR,13.99,Very Long
+user_034,content_011,2024-02-29,1148,2931,0.39167519617877855,sci-fi,sci-fi,documentary,8.0,premium,57,UK,17.99,Medium
+user_034,content_013,2024-01-30,950,4007,0.23708510107312203,sci-fi,sci-fi,series,8.4,premium,57,UK,17.99,Long
+user_034,content_014,2024-02-14,192,1430,0.13426573426573427,thriller,thriller,documentary,9.4,premium,57,UK,17.99,Very Short
+user_034,content_027,2024-03-19,870,3806,0.22858644245927484,thriller,thriller,movie,6.4,premium,57,UK,17.99,Long
+user_034,content_032,2024-01-03,887,3484,0.2545924225028703,drama,drama,movie,7.8,premium,57,UK,17.99,Long
+user_034,content_035,2024-02-24,4938,5974,0.8265818547037161,sci-fi,sci-fi,series,6.8,premium,57,UK,17.99,Very Long
+user_034,content_037,2024-02-02,2567,5324,0.4821562734785875,thriller,thriller,documentary,7.0,premium,57,UK,17.99,Very Long
+user_034,content_047,2024-02-17,3462,3953,0.8757905388312673,romance,romance,series,8.1,premium,57,UK,17.99,Long
+user_034,content_052,2024-03-13,733,1884,0.3890658174097665,horror,horror,movie,6.6,premium,57,UK,17.99,Short
+user_034,content_054,2024-01-26,83,3198,0.025953721075672294,sci-fi,sci-fi,documentary,6.6,premium,57,UK,17.99,Medium
+user_034,content_067,2024-01-22,709,4597,0.15423102023058516,thriller,thriller,movie,9.0,premium,57,UK,17.99,Very Long
+user_034,content_069,2024-01-06,756,1318,0.5735963581183612,drama,drama,movie,7.9,premium,57,UK,17.99,Very Short
+user_034,content_084,2024-02-05,745,4287,0.17378119897364125,romance,romance,movie,7.6,premium,57,UK,17.99,Long
+user_034,content_085,2024-01-16,3492,3997,0.8736552414310733,romance,romance,movie,9.2,premium,57,UK,17.99,Long
+user_034,content_087,2024-01-27,496,3923,0.12643385164414989,thriller,thriller,movie,9.2,premium,57,UK,17.99,Long
+user_034,content_097,2024-03-11,444,4401,0.10088616223585549,romance,romance,movie,6.3,premium,57,UK,17.99,Very Long
+user_035,content_003,2024-01-14,214,2111,0.10137375651350071,documentary,documentary,series,7.0,standard,46,JP,8.99,Short
+user_035,content_011,2024-03-13,1131,2122,0.5329877474081055,sci-fi,sci-fi,documentary,8.0,standard,46,JP,8.99,Short
+user_035,content_012,2024-02-24,80,1203,0.06650041562759768,sci-fi,sci-fi,series,8.0,standard,46,JP,8.99,Very Short
+user_035,content_020,2024-01-30,445,3568,0.12471973094170404,sci-fi,sci-fi,movie,6.4,standard,46,JP,8.99,Long
+user_035,content_020,2024-02-11,203,1139,0.17822651448639157,sci-fi,sci-fi,movie,6.4,standard,46,JP,8.99,Very Short
+user_035,content_023,2024-02-15,609,4278,0.1423562412342216,romance,romance,series,7.0,standard,46,JP,8.99,Long
+user_035,content_028,2024-03-11,542,2629,0.20616203879802206,romance,romance,movie,9.0,standard,46,JP,8.99,Medium
+user_035,content_035,2024-01-25,107,791,0.13527180783817952,sci-fi,sci-fi,series,6.8,standard,46,JP,8.99,Very Short
+user_035,content_038,2024-02-08,932,1733,0.5377957299480669,comedy,comedy,movie,8.5,standard,46,JP,8.99,Very Short
+user_035,content_040,2024-03-02,353,3517,0.10036963321012227,comedy,comedy,movie,9.3,standard,46,JP,8.99,Long
+user_035,content_043,2024-01-18,150,3273,0.045829514207149404,comedy,comedy,documentary,9.3,standard,46,JP,8.99,Medium
+user_035,content_045,2024-02-03,690,3548,0.19447576099210823,documentary,documentary,movie,8.9,standard,46,JP,8.99,Long
+user_035,content_046,2024-02-27,121,972,0.12448559670781893,thriller,thriller,movie,8.8,standard,46,JP,8.99,Very Short
+user_035,content_050,2024-02-17,272,624,0.4358974358974359,romance,romance,series,6.9,standard,46,JP,8.99,Very Short
+user_035,content_053,2024-01-30,970,5133,0.1889733099551919,comedy,comedy,movie,7.1,standard,46,JP,8.99,Very Long
+user_035,content_055,2024-02-16,551,4545,0.12123212321232123,romance,romance,movie,6.1,standard,46,JP,8.99,Very Long
+user_035,content_058,2024-02-24,355,4588,0.07737576285963382,romance,romance,series,7.3,standard,46,JP,8.99,Very Long
+user_035,content_058,2024-03-06,2596,6787,0.3824959481361426,romance,romance,series,7.3,standard,46,JP,8.99,Very Long
+user_035,content_065,2024-01-12,1333,3838,0.34731631057842627,comedy,comedy,movie,8.7,standard,46,JP,8.99,Long
+user_035,content_065,2024-02-29,189,703,0.26884779516358465,comedy,comedy,movie,8.7,standard,46,JP,8.99,Very Short
+user_035,content_088,2024-03-14,107,2289,0.04674530362603757,drama,drama,series,7.9,standard,46,JP,8.99,Short
+user_035,content_089,2024-03-12,136,1417,0.09597741707833451,thriller,thriller,series,7.9,standard,46,JP,8.99,Very Short
+user_035,content_093,2024-01-07,762,3908,0.19498464687819858,drama,drama,documentary,9.4,standard,46,JP,8.99,Long
+user_035,content_095,2024-01-23,3588,7309,0.4909016281297031,documentary,documentary,series,6.0,standard,46,JP,8.99,Very Long
+user_035,content_100,2024-01-01,125,1518,0.08234519104084322,thriller,thriller,documentary,8.5,standard,46,JP,8.99,Very Short
+user_035,content_100,2024-02-29,704,2877,0.24469933958985055,thriller,thriller,documentary,8.5,standard,46,JP,8.99,Medium
+user_036,content_002,2024-03-28,2319,5110,0.4538160469667319,documentary,documentary,documentary,9.5,premium,57,BR,17.99,Very Long
+user_036,content_006,2024-01-23,613,2480,0.24717741935483872,documentary,documentary,series,7.6,premium,57,BR,17.99,Short
+user_036,content_009,2024-03-01,710,2830,0.2508833922261484,sci-fi,sci-fi,movie,7.7,premium,57,BR,17.99,Medium
+user_036,content_009,2024-03-23,221,3055,0.07234042553191489,sci-fi,sci-fi,movie,7.7,premium,57,BR,17.99,Medium
+user_036,content_010,2024-01-01,1109,2663,0.416447615471273,thriller,thriller,movie,7.3,premium,57,BR,17.99,Medium
+user_036,content_012,2024-03-17,96,2043,0.04698972099853157,sci-fi,sci-fi,series,8.0,premium,57,BR,17.99,Short
+user_036,content_019,2024-01-06,3170,7387,0.42913225937457694,romance,romance,movie,8.1,premium,57,BR,17.99,Very Long
+user_036,content_021,2024-03-08,2494,3800,0.6563157894736842,horror,horror,movie,7.8,premium,57,BR,17.99,Long
+user_036,content_031,2024-01-16,502,4860,0.10329218106995884,thriller,thriller,documentary,8.9,premium,57,BR,17.99,Very Long
+user_036,content_034,2024-01-21,60,1935,0.031007751937984496,drama,drama,documentary,7.1,premium,57,BR,17.99,Short
+user_036,content_041,2024-01-19,357,1642,0.2174177831912302,action,action,documentary,7.8,premium,57,BR,17.99,Very Short
+user_036,content_042,2024-02-22,837,4243,0.1972660853169927,thriller,thriller,documentary,9.1,premium,57,BR,17.99,Long
+user_036,content_046,2024-03-31,1006,4233,0.23765650838648714,thriller,thriller,movie,8.8,premium,57,BR,17.99,Long
+user_036,content_049,2024-01-24,530,1764,0.30045351473922904,drama,drama,series,6.1,premium,57,BR,17.99,Short
+user_036,content_050,2024-02-23,271,1982,0.1367305751765893,romance,romance,series,6.9,premium,57,BR,17.99,Short
+user_036,content_053,2024-01-20,129,2080,0.06201923076923077,comedy,comedy,movie,7.1,premium,57,BR,17.99,Short
+user_036,content_061,2024-03-22,679,3750,0.18106666666666665,sci-fi,sci-fi,movie,6.9,premium,57,BR,17.99,Long
+user_036,content_062,2024-01-12,856,2240,0.3821428571428571,romance,romance,series,7.9,premium,57,BR,17.99,Short
+user_036,content_063,2024-01-07,182,2141,0.085007006071929,comedy,comedy,series,6.1,premium,57,BR,17.99,Short
+user_036,content_064,2024-02-14,3174,4727,0.6714618151047176,documentary,documentary,movie,6.9,premium,57,BR,17.99,Very Long
+user_036,content_064,2024-03-29,55,592,0.0929054054054054,documentary,documentary,movie,6.9,premium,57,BR,17.99,Very Short
+user_036,content_065,2024-02-22,545,2912,0.1871565934065934,comedy,comedy,movie,8.7,premium,57,BR,17.99,Medium
+user_036,content_068,2024-02-24,433,3615,0.11977869986168742,documentary,documentary,movie,7.3,premium,57,BR,17.99,Long
+user_036,content_072,2024-01-23,614,2235,0.27472035794183447,horror,horror,documentary,9.4,premium,57,BR,17.99,Short
+user_036,content_085,2024-01-07,46,921,0.0499457111834962,romance,romance,movie,9.2,premium,57,BR,17.99,Very Short
+user_036,content_089,2024-02-15,960,1984,0.4838709677419355,thriller,thriller,series,7.9,premium,57,BR,17.99,Short
+user_036,content_093,2024-02-06,700,3000,0.23333333333333334,drama,drama,documentary,9.4,premium,57,BR,17.99,Medium
+user_037,content_004,2024-02-07,327,1702,0.19212690951821387,drama,drama,documentary,7.3,premium,46,JP,13.99,Very Short
+user_037,content_010,2024-02-10,575,3766,0.1526818906001062,thriller,thriller,movie,7.3,premium,46,JP,13.99,Long
+user_037,content_017,2024-01-14,371,2856,0.12990196078431374,comedy,comedy,documentary,6.7,premium,46,JP,13.99,Medium
+user_037,content_017,2024-01-22,485,2231,0.21739130434782608,comedy,comedy,documentary,6.7,premium,46,JP,13.99,Short
+user_037,content_020,2024-01-05,756,2663,0.2838903492301915,sci-fi,sci-fi,movie,6.4,premium,46,JP,13.99,Medium
+user_037,content_024,2024-02-14,382,4572,0.08355205599300088,action,action,movie,6.5,premium,46,JP,13.99,Very Long
+user_037,content_025,2024-01-29,939,3315,0.2832579185520362,sci-fi,sci-fi,movie,9.3,premium,46,JP,13.99,Medium
+user_037,content_026,2024-03-10,1289,1742,0.7399540757749713,horror,horror,series,6.8,premium,46,JP,13.99,Very Short
+user_037,content_029,2024-01-03,4159,6249,0.66554648743799,sci-fi,sci-fi,series,8.0,premium,46,JP,13.99,Very Long
+user_037,content_032,2024-02-18,970,3164,0.3065739570164349,drama,drama,movie,7.8,premium,46,JP,13.99,Medium
+user_037,content_034,2024-03-21,1678,1896,0.8850210970464135,drama,drama,documentary,7.1,premium,46,JP,13.99,Short
+user_037,content_035,2024-03-27,1001,1838,0.544613710554951,sci-fi,sci-fi,series,6.8,premium,46,JP,13.99,Short
+user_037,content_035,2024-03-28,564,2530,0.22292490118577074,sci-fi,sci-fi,series,6.8,premium,46,JP,13.99,Short
+user_037,content_044,2024-03-29,826,1736,0.47580645161290325,drama,drama,movie,7.0,premium,46,JP,13.99,Very Short
+user_037,content_045,2024-01-18,629,3420,0.18391812865497076,documentary,documentary,movie,8.9,premium,46,JP,13.99,Medium
+user_037,content_048,2024-03-05,402,1645,0.24437689969604864,thriller,thriller,movie,7.2,premium,46,JP,13.99,Very Short
+user_037,content_049,2024-01-01,958,5098,0.18791683012946253,drama,drama,series,6.1,premium,46,JP,13.99,Very Long
+user_037,content_058,2024-01-27,223,3043,0.07328294446270128,romance,romance,series,7.3,premium,46,JP,13.99,Medium
+user_037,content_059,2024-02-10,330,3652,0.09036144578313253,comedy,comedy,movie,6.7,premium,46,JP,13.99,Long
+user_037,content_065,2024-01-29,5252,7347,0.7148495984755683,comedy,comedy,movie,8.7,premium,46,JP,13.99,Very Long
+user_037,content_076,2024-01-13,371,4874,0.07611817808781289,documentary,documentary,documentary,8.9,premium,46,JP,13.99,Very Long
+user_037,content_076,2024-03-27,578,3726,0.155126140633387,documentary,documentary,documentary,8.9,premium,46,JP,13.99,Long
+user_037,content_078,2024-02-12,134,1013,0.13228035538005922,comedy,comedy,series,6.3,premium,46,JP,13.99,Very Short
+user_037,content_079,2024-01-23,4907,9884,0.4964589235127479,comedy,comedy,movie,8.5,premium,46,JP,13.99,Very Long
+user_037,content_080,2024-01-17,639,4062,0.15731166912850814,horror,horror,series,6.7,premium,46,JP,13.99,Long
+user_037,content_081,2024-03-12,199,4048,0.0491600790513834,romance,romance,documentary,9.3,premium,46,JP,13.99,Long
+user_037,content_087,2024-03-25,701,3088,0.2270077720207254,thriller,thriller,movie,9.2,premium,46,JP,13.99,Medium
+user_037,content_092,2024-01-28,556,1455,0.38213058419243984,sci-fi,sci-fi,documentary,7.3,premium,46,JP,13.99,Very Short
+user_038,content_004,2024-03-13,313,4640,0.06745689655172414,drama,drama,documentary,7.3,premium,43,BR,8.99,Very Long
+user_038,content_008,2024-02-10,424,2942,0.1441196464989803,sci-fi,sci-fi,movie,6.3,premium,43,BR,8.99,Medium
+user_038,content_028,2024-01-01,306,2933,0.10433003750426184,romance,romance,movie,9.0,premium,43,BR,8.99,Medium
+user_038,content_028,2024-03-11,3349,7399,0.4526287336126504,romance,romance,movie,9.0,premium,43,BR,8.99,Very Long
+user_038,content_032,2024-02-02,531,3558,0.14924114671163574,drama,drama,movie,7.8,premium,43,BR,8.99,Long
+user_038,content_062,2024-01-23,106,839,0.1263408820023838,romance,romance,series,7.9,premium,43,BR,8.99,Very Short
+user_038,content_065,2024-03-04,255,3833,0.06652752413253327,comedy,comedy,movie,8.7,premium,43,BR,8.99,Long
+user_038,content_070,2024-01-23,457,3242,0.14096236890808142,sci-fi,sci-fi,documentary,7.6,premium,43,BR,8.99,Medium
+user_038,content_071,2024-03-16,35,1142,0.03064798598949212,action,action,series,9.4,premium,43,BR,8.99,Very Short
+user_038,content_073,2024-02-25,1268,3308,0.38331318016928656,action,action,movie,9.3,premium,43,BR,8.99,Medium
+user_038,content_075,2024-01-10,301,948,0.31751054852320676,sci-fi,sci-fi,series,8.9,premium,43,BR,8.99,Very Short
+user_038,content_077,2024-03-21,566,3359,0.16850253051503425,horror,horror,movie,6.6,premium,43,BR,8.99,Medium
+user_038,content_081,2024-03-19,276,3660,0.07540983606557378,romance,romance,documentary,9.3,premium,43,BR,8.99,Long
+user_038,content_090,2024-01-18,302,824,0.36650485436893204,comedy,comedy,documentary,6.1,premium,43,BR,8.99,Very Short
+user_038,content_092,2024-02-28,426,3379,0.1260728026043208,sci-fi,sci-fi,documentary,7.3,premium,43,BR,8.99,Medium
+user_038,content_097,2024-01-19,3379,5203,0.6494330194118778,romance,romance,movie,6.3,premium,43,BR,8.99,Very Long
+user_039,content_001,2024-03-11,704,4706,0.14959626009349766,action,action,series,7.2,standard,23,US,17.99,Very Long
+user_039,content_002,2024-01-07,54,2355,0.022929936305732482,documentary,documentary,documentary,9.5,standard,23,US,17.99,Short
+user_039,content_020,2024-01-23,3539,7212,0.4907099278979479,sci-fi,sci-fi,movie,6.4,standard,23,US,17.99,Very Long
+user_039,content_024,2024-03-19,791,3176,0.24905541561712846,action,action,movie,6.5,standard,23,US,17.99,Medium
+user_039,content_048,2024-03-30,652,4308,0.15134633240482823,thriller,thriller,movie,7.2,standard,23,US,17.99,Long
+user_039,content_055,2024-03-10,206,2105,0.09786223277909739,romance,romance,movie,6.1,standard,23,US,17.99,Short
+user_039,content_061,2024-01-20,114,3196,0.03566958698372966,sci-fi,sci-fi,movie,6.9,standard,23,US,17.99,Medium
+user_039,content_061,2024-01-22,705,1485,0.47474747474747475,sci-fi,sci-fi,movie,6.9,standard,23,US,17.99,Very Short
+user_039,content_068,2024-02-28,195,4189,0.046550489376939605,documentary,documentary,movie,7.3,standard,23,US,17.99,Long
+user_039,content_069,2024-03-21,2155,2869,0.7511327988846288,drama,drama,movie,7.9,standard,23,US,17.99,Medium
+user_039,content_078,2024-03-05,839,4429,0.18943328065025966,comedy,comedy,series,6.3,standard,23,US,17.99,Very Long
+user_039,content_083,2024-01-05,514,1561,0.3292761050608584,documentary,documentary,documentary,9.4,standard,23,US,17.99,Very Short
+user_039,content_090,2024-03-12,88,1439,0.061153578874218205,comedy,comedy,documentary,6.1,standard,23,US,17.99,Very Short
+user_039,content_094,2024-02-11,17,2743,0.006197593875318994,comedy,comedy,series,7.3,standard,23,US,17.99,Medium
+user_039,content_099,2024-01-31,204,2488,0.0819935691318328,thriller,thriller,series,6.1,standard,23,US,17.99,Short
+user_040,content_006,2024-02-16,841,1478,0.5690121786197564,documentary,documentary,series,7.6,standard,42,JP,17.99,Very Short
+user_040,content_007,2024-03-23,3273,7705,0.42478909798831926,drama,drama,documentary,7.5,standard,42,JP,17.99,Very Long
+user_040,content_012,2024-03-17,3919,9599,0.40827169496822585,sci-fi,sci-fi,series,8.0,standard,42,JP,17.99,Very Long
+user_040,content_020,2024-01-17,173,1186,0.14586846543001686,sci-fi,sci-fi,movie,6.4,standard,42,JP,17.99,Very Short
+user_040,content_022,2024-02-16,130,657,0.197869101978691,comedy,comedy,series,7.1,standard,42,JP,17.99,Very Short
+user_040,content_032,2024-03-28,2974,8402,0.35396334206141394,drama,drama,movie,7.8,standard,42,JP,17.99,Very Long
+user_040,content_035,2024-01-06,798,2087,0.38236703402012456,sci-fi,sci-fi,series,6.8,standard,42,JP,17.99,Short
+user_040,content_041,2024-02-20,790,4216,0.18738140417457305,action,action,documentary,7.8,standard,42,JP,17.99,Long
+user_040,content_041,2024-03-14,304,1581,0.1922833649588868,action,action,documentary,7.8,standard,42,JP,17.99,Very Short
+user_040,content_058,2024-03-30,208,523,0.3977055449330784,romance,romance,series,7.3,standard,42,JP,17.99,Very Short
+user_040,content_059,2024-02-19,297,3585,0.08284518828451883,comedy,comedy,movie,6.7,standard,42,JP,17.99,Long
+user_040,content_069,2024-03-05,3922,5779,0.6786641287419969,drama,drama,movie,7.9,standard,42,JP,17.99,Very Long
+user_040,content_079,2024-03-18,358,1483,0.24140256237356708,comedy,comedy,movie,8.5,standard,42,JP,17.99,Very Short
+user_040,content_081,2024-02-23,255,1651,0.15445184736523318,romance,romance,documentary,9.3,standard,42,JP,17.99,Very Short
+user_040,content_084,2024-02-26,370,3560,0.10393258426966293,romance,romance,movie,7.6,standard,42,JP,17.99,Long
+user_040,content_089,2024-03-09,382,3207,0.11911443716869348,thriller,thriller,series,7.9,standard,42,JP,17.99,Medium
+user_040,content_092,2024-03-28,278,4346,0.06396686608375518,sci-fi,sci-fi,documentary,7.3,standard,42,JP,17.99,Long
+user_040,content_093,2024-02-13,233,2082,0.11191162343900096,drama,drama,documentary,9.4,standard,42,JP,17.99,Short
+user_041,content_001,2024-01-19,3348,5578,0.60021513087128,action,action,series,7.2,premium,26,FR,17.99,Very Long
+user_041,content_001,2024-02-19,1527,5863,0.26044687020296775,action,action,series,7.2,premium,26,FR,17.99,Very Long
+user_041,content_010,2024-01-03,463,2926,0.1582365003417635,thriller,thriller,movie,7.3,premium,26,FR,17.99,Medium
+user_041,content_010,2024-02-28,80,3692,0.021668472372697724,thriller,thriller,movie,7.3,premium,26,FR,17.99,Long
+user_041,content_015,2024-02-05,1186,1862,0.6369495166487648,drama,drama,movie,7.8,premium,26,FR,17.99,Short
+user_041,content_016,2024-03-19,57,1585,0.03596214511041009,thriller,thriller,documentary,7.6,premium,26,FR,17.99,Very Short
+user_041,content_028,2024-03-22,1303,5843,0.22300188259455758,romance,romance,movie,9.0,premium,26,FR,17.99,Very Long
+user_041,content_033,2024-02-02,1122,2885,0.3889081455805893,thriller,thriller,series,8.3,premium,26,FR,17.99,Medium
+user_041,content_039,2024-03-16,184,2370,0.07763713080168777,horror,horror,documentary,8.3,premium,26,FR,17.99,Short
+user_041,content_050,2024-02-02,148,2203,0.06718111665910123,romance,romance,series,6.9,premium,26,FR,17.99,Short
+user_041,content_052,2024-02-10,264,3628,0.07276736493936053,horror,horror,movie,6.6,premium,26,FR,17.99,Long
+user_041,content_052,2024-03-06,185,1636,0.11308068459657701,horror,horror,movie,6.6,premium,26,FR,17.99,Very Short
+user_041,content_055,2024-03-19,153,3782,0.04045478582760444,romance,romance,movie,6.1,premium,26,FR,17.99,Long
+user_041,content_057,2024-01-01,446,2631,0.169517293804637,romance,romance,movie,7.4,premium,26,FR,17.99,Medium
+user_041,content_067,2024-02-10,344,4089,0.08412814869161164,thriller,thriller,movie,9.0,premium,26,FR,17.99,Long
+user_041,content_076,2024-02-24,383,1130,0.33893805309734515,documentary,documentary,documentary,8.9,premium,26,FR,17.99,Very Short
+user_041,content_077,2024-01-26,135,3097,0.043590571520826606,horror,horror,movie,6.6,premium,26,FR,17.99,Medium
+user_041,content_079,2024-01-21,187,1083,0.17266851338873498,comedy,comedy,movie,8.5,premium,26,FR,17.99,Very Short
+user_041,content_079,2024-03-14,97,2216,0.043772563176895304,comedy,comedy,movie,8.5,premium,26,FR,17.99,Short
+user_041,content_088,2024-01-20,2717,5258,0.5167364016736402,drama,drama,series,7.9,premium,26,FR,17.99,Very Long
+user_041,content_093,2024-02-18,393,1583,0.24826279216677194,drama,drama,documentary,9.4,premium,26,FR,17.99,Very Short
+user_041,content_095,2024-01-20,79,436,0.1811926605504587,documentary,documentary,series,6.0,premium,26,FR,17.99,Very Short
+user_042,content_003,2024-03-03,54,900,0.06,documentary,documentary,series,7.0,standard,31,US,17.99,Very Short
+user_042,content_006,2024-01-03,103,2695,0.03821892393320965,documentary,documentary,series,7.6,standard,31,US,17.99,Medium
+user_042,content_009,2024-03-30,667,2030,0.32857142857142857,sci-fi,sci-fi,movie,7.7,standard,31,US,17.99,Short
+user_042,content_013,2024-02-21,2952,7876,0.37480954799390553,sci-fi,sci-fi,series,8.4,standard,31,US,17.99,Very Long
+user_042,content_017,2024-02-01,495,1732,0.28579676674364896,comedy,comedy,documentary,6.7,standard,31,US,17.99,Very Short
+user_042,content_021,2024-03-28,333,1356,0.24557522123893805,horror,horror,movie,7.8,standard,31,US,17.99,Very Short
+user_042,content_023,2024-02-01,3315,6040,0.5488410596026491,romance,romance,series,7.0,standard,31,US,17.99,Very Long
+user_042,content_033,2024-01-28,393,3465,0.11341991341991342,thriller,thriller,series,8.3,standard,31,US,17.99,Long
+user_042,content_037,2024-01-08,734,2742,0.26768781911013856,thriller,thriller,documentary,7.0,standard,31,US,17.99,Medium
+user_042,content_043,2024-01-13,43,1012,0.042490118577075096,comedy,comedy,documentary,9.3,standard,31,US,17.99,Very Short
+user_042,content_045,2024-03-30,186,3364,0.055291319857312726,documentary,documentary,movie,8.9,standard,31,US,17.99,Medium
+user_042,content_046,2024-02-03,584,1481,0.39432815665091153,thriller,thriller,movie,8.8,standard,31,US,17.99,Very Short
+user_042,content_048,2024-03-07,171,829,0.20627261761158022,thriller,thriller,movie,7.2,standard,31,US,17.99,Very Short
+user_042,content_052,2024-03-01,584,2982,0.19584171696847752,horror,horror,movie,6.6,standard,31,US,17.99,Medium
+user_042,content_064,2024-02-03,121,3243,0.03731113166820845,documentary,documentary,movie,6.9,standard,31,US,17.99,Medium
+user_042,content_078,2024-02-05,2217,5790,0.3829015544041451,comedy,comedy,series,6.3,standard,31,US,17.99,Very Long
+user_042,content_084,2024-01-28,263,1915,0.13733681462140993,romance,romance,movie,7.6,standard,31,US,17.99,Short
+user_042,content_090,2024-01-17,102,2522,0.040444091990483745,comedy,comedy,documentary,6.1,standard,31,US,17.99,Short
+user_042,content_098,2024-01-21,237,2903,0.08163968308646229,horror,horror,documentary,6.8,standard,31,US,17.99,Medium
+user_042,content_099,2024-02-03,1016,4161,0.2441720740206681,thriller,thriller,series,6.1,standard,31,US,17.99,Long
+user_042,content_100,2024-03-14,90,2132,0.04221388367729831,thriller,thriller,documentary,8.5,standard,31,US,17.99,Short
+user_043,content_002,2024-01-16,2352,5869,0.4007497018231385,documentary,documentary,documentary,9.5,premium,37,FR,13.99,Very Long
+user_043,content_009,2024-01-17,269,994,0.27062374245472837,sci-fi,sci-fi,movie,7.7,premium,37,FR,13.99,Very Short
+user_043,content_013,2024-02-04,429,3210,0.1336448598130841,sci-fi,sci-fi,series,8.4,premium,37,FR,13.99,Medium
+user_043,content_016,2024-02-09,782,4292,0.18219944082013048,thriller,thriller,documentary,7.6,premium,37,FR,13.99,Long
+user_043,content_031,2024-03-09,611,3982,0.15344048216976394,thriller,thriller,documentary,8.9,premium,37,FR,13.99,Long
+user_043,content_039,2024-03-07,244,1656,0.1473429951690821,horror,horror,documentary,8.3,premium,37,FR,13.99,Very Short
+user_043,content_040,2024-03-31,887,3618,0.24516307352128247,comedy,comedy,movie,9.3,premium,37,FR,13.99,Long
+user_043,content_043,2024-02-10,215,1545,0.13915857605177995,comedy,comedy,documentary,9.3,premium,37,FR,13.99,Very Short
+user_043,content_043,2024-02-16,1246,3546,0.3513818386914834,comedy,comedy,documentary,9.3,premium,37,FR,13.99,Long
+user_043,content_046,2024-02-08,1037,3692,0.28087757313109424,thriller,thriller,movie,8.8,premium,37,FR,13.99,Long
+user_043,content_053,2024-02-21,249,1980,0.12575757575757576,comedy,comedy,movie,7.1,premium,37,FR,13.99,Short
+user_043,content_055,2024-03-06,70,2509,0.027899561578318056,romance,romance,movie,6.1,premium,37,FR,13.99,Short
+user_043,content_056,2024-02-24,265,4311,0.06147065646021805,action,action,series,7.4,premium,37,FR,13.99,Long
+user_043,content_062,2024-01-23,633,1713,0.36952714535901926,romance,romance,series,7.9,premium,37,FR,13.99,Very Short
+user_043,content_067,2024-01-25,650,3399,0.19123271550456017,thriller,thriller,movie,9.0,premium,37,FR,13.99,Medium
+user_043,content_070,2024-03-24,317,2034,0.15585054080629301,sci-fi,sci-fi,documentary,7.6,premium,37,FR,13.99,Short
+user_043,content_075,2024-03-07,163,3337,0.048846269103985616,sci-fi,sci-fi,series,8.9,premium,37,FR,13.99,Medium
+user_043,content_078,2024-02-12,285,2851,0.09996492458786391,comedy,comedy,series,6.3,premium,37,FR,13.99,Medium
+user_043,content_081,2024-03-15,1452,3204,0.45318352059925093,romance,romance,documentary,9.3,premium,37,FR,13.99,Medium
+user_043,content_085,2024-01-14,533,2335,0.22826552462526767,romance,romance,movie,9.2,premium,37,FR,13.99,Short
+user_043,content_089,2024-01-04,781,2890,0.27024221453287195,thriller,thriller,series,7.9,premium,37,FR,13.99,Medium
+user_043,content_096,2024-02-04,1059,4034,0.2625185919682697,action,action,series,8.4,premium,37,FR,13.99,Long
+user_043,content_096,2024-02-23,470,3247,0.14474899907607022,action,action,series,8.4,premium,37,FR,13.99,Medium
+user_043,content_097,2024-01-07,249,1123,0.22172751558325912,romance,romance,movie,6.3,premium,37,FR,13.99,Very Short
+user_044,content_010,2024-01-23,126,470,0.2680851063829787,thriller,thriller,movie,7.3,premium,28,US,8.99,Very Short
+user_044,content_016,2024-01-31,32,1122,0.0285204991087344,thriller,thriller,documentary,7.6,premium,28,US,8.99,Very Short
+user_044,content_016,2024-02-17,109,906,0.12030905077262694,thriller,thriller,documentary,7.6,premium,28,US,8.99,Very Short
+user_044,content_018,2024-01-16,75,1828,0.041028446389496716,thriller,thriller,movie,8.6,premium,28,US,8.99,Short
+user_044,content_018,2024-03-03,128,3770,0.03395225464190981,thriller,thriller,movie,8.6,premium,28,US,8.99,Long
+user_044,content_021,2024-01-19,5599,6842,0.8183279742765274,horror,horror,movie,7.8,premium,28,US,8.99,Very Long
+user_044,content_023,2024-01-10,22,1271,0.01730920535011802,romance,romance,series,7.0,premium,28,US,8.99,Very Short
+user_044,content_039,2024-01-06,224,1104,0.2028985507246377,horror,horror,documentary,8.3,premium,28,US,8.99,Very Short
+user_044,content_039,2024-01-12,485,2574,0.18842268842268842,horror,horror,documentary,8.3,premium,28,US,8.99,Medium
+user_044,content_039,2024-02-14,46,2166,0.02123730378578024,horror,horror,documentary,8.3,premium,28,US,8.99,Short
+user_044,content_044,2024-03-03,1161,3461,0.33545218145044786,drama,drama,movie,7.0,premium,28,US,8.99,Long
+user_044,content_051,2024-01-19,382,2306,0.16565481352992195,comedy,comedy,movie,7.9,premium,28,US,8.99,Short
+user_044,content_055,2024-01-09,607,3447,0.17609515520742675,romance,romance,movie,6.1,premium,28,US,8.99,Long
+user_044,content_056,2024-03-21,391,2587,0.1511403169694627,action,action,series,7.4,premium,28,US,8.99,Medium
+user_044,content_061,2024-01-12,1546,6886,0.2245135056636654,sci-fi,sci-fi,movie,6.9,premium,28,US,8.99,Very Long
+user_044,content_061,2024-02-17,1574,8474,0.18574463063488317,sci-fi,sci-fi,movie,6.9,premium,28,US,8.99,Very Long
+user_044,content_068,2024-03-13,172,2524,0.06814580031695722,documentary,documentary,movie,7.3,premium,28,US,8.99,Short
+user_044,content_070,2024-03-01,756,1056,0.7159090909090909,sci-fi,sci-fi,documentary,7.6,premium,28,US,8.99,Very Short
+user_044,content_073,2024-02-11,261,648,0.4027777777777778,action,action,movie,9.3,premium,28,US,8.99,Very Short
+user_044,content_074,2024-01-15,2626,5195,0.5054860442733398,thriller,thriller,series,8.1,premium,28,US,8.99,Very Long
+user_044,content_079,2024-01-17,2395,5641,0.42457011168232583,comedy,comedy,movie,8.5,premium,28,US,8.99,Very Long
+user_044,content_083,2024-02-12,14,1140,0.012280701754385965,documentary,documentary,documentary,9.4,premium,28,US,8.99,Very Short
+user_044,content_083,2024-03-01,255,2880,0.08854166666666667,documentary,documentary,documentary,9.4,premium,28,US,8.99,Medium
+user_044,content_084,2024-03-01,192,3313,0.05795351645034712,romance,romance,movie,7.6,premium,28,US,8.99,Medium
+user_044,content_096,2024-01-10,285,1710,0.16666666666666666,action,action,series,8.4,premium,28,US,8.99,Very Short
+user_045,content_009,2024-01-15,78,1435,0.05435540069686411,sci-fi,sci-fi,movie,7.7,premium,55,CA,8.99,Very Short
+user_045,content_014,2024-01-22,5461,7470,0.731057563587684,thriller,thriller,documentary,9.4,premium,55,CA,8.99,Very Long
+user_045,content_015,2024-01-03,246,2608,0.09432515337423313,drama,drama,movie,7.8,premium,55,CA,8.99,Medium
+user_045,content_019,2024-01-20,157,2544,0.06171383647798742,romance,romance,movie,8.1,premium,55,CA,8.99,Short
+user_045,content_020,2024-01-05,270,2951,0.09149440867502541,sci-fi,sci-fi,movie,6.4,premium,55,CA,8.99,Medium
+user_045,content_037,2024-02-18,4587,9017,0.5087057779749362,thriller,thriller,documentary,7.0,premium,55,CA,8.99,Very Long
+user_045,content_038,2024-03-25,134,2849,0.04703404703404703,comedy,comedy,movie,8.5,premium,55,CA,8.99,Medium
+user_045,content_039,2024-02-04,555,1400,0.3964285714285714,horror,horror,documentary,8.3,premium,55,CA,8.99,Very Short
+user_045,content_041,2024-02-16,692,1970,0.35126903553299493,action,action,documentary,7.8,premium,55,CA,8.99,Short
+user_045,content_054,2024-01-05,1271,4155,0.3058965102286402,sci-fi,sci-fi,documentary,6.6,premium,55,CA,8.99,Long
+user_045,content_067,2024-02-29,152,708,0.21468926553672316,thriller,thriller,movie,9.0,premium,55,CA,8.99,Very Short
+user_045,content_073,2024-02-04,92,2436,0.03776683087027915,action,action,movie,9.3,premium,55,CA,8.99,Short
+user_045,content_075,2024-03-13,818,3468,0.2358708189158016,sci-fi,sci-fi,series,8.9,premium,55,CA,8.99,Long
+user_045,content_077,2024-02-17,293,756,0.38756613756613756,horror,horror,movie,6.6,premium,55,CA,8.99,Very Short
+user_045,content_080,2024-01-07,11,1668,0.006594724220623501,horror,horror,series,6.7,premium,55,CA,8.99,Very Short
+user_046,content_005,2024-01-14,261,5348,0.048803290949887806,documentary,documentary,movie,7.1,standard,64,DE,17.99,Very Long
+user_046,content_005,2024-03-14,816,3770,0.21644562334217507,documentary,documentary,movie,7.1,standard,64,DE,17.99,Long
+user_046,content_009,2024-01-14,413,1616,0.2555693069306931,sci-fi,sci-fi,movie,7.7,standard,64,DE,17.99,Very Short
+user_046,content_009,2024-03-11,6709,9484,0.7074019401096584,sci-fi,sci-fi,movie,7.7,standard,64,DE,17.99,Very Long
+user_046,content_016,2024-03-18,4831,8330,0.5799519807923169,thriller,thriller,documentary,7.6,standard,64,DE,17.99,Very Long
+user_046,content_022,2024-02-25,948,3521,0.26924169270093723,comedy,comedy,series,7.1,standard,64,DE,17.99,Long
+user_046,content_023,2024-01-08,847,1841,0.4600760456273764,romance,romance,series,7.0,standard,64,DE,17.99,Short
+user_046,content_026,2024-03-16,2625,5855,0.448334756618275,horror,horror,series,6.8,standard,64,DE,17.99,Very Long
+user_046,content_027,2024-01-31,743,3207,0.2316806984720923,thriller,thriller,movie,6.4,standard,64,DE,17.99,Medium
+user_046,content_043,2024-03-07,657,1873,0.35077415910304327,comedy,comedy,documentary,9.3,standard,64,DE,17.99,Short
+user_046,content_044,2024-03-28,318,2601,0.12226066897347174,drama,drama,movie,7.0,standard,64,DE,17.99,Medium
+user_046,content_047,2024-03-13,6612,9159,0.7219128725843432,romance,romance,series,8.1,standard,64,DE,17.99,Very Long
+user_046,content_050,2024-03-19,507,1366,0.3711566617862372,romance,romance,series,6.9,standard,64,DE,17.99,Very Short
+user_046,content_056,2024-03-07,3471,7684,0.4517178552837064,action,action,series,7.4,standard,64,DE,17.99,Very Long
+user_046,content_069,2024-02-07,148,1584,0.09343434343434344,drama,drama,movie,7.9,standard,64,DE,17.99,Very Short
+user_046,content_072,2024-02-28,482,2298,0.20974760661444736,horror,horror,documentary,9.4,standard,64,DE,17.99,Short
+user_046,content_074,2024-01-15,433,3281,0.13197195976836332,thriller,thriller,series,8.1,standard,64,DE,17.99,Medium
+user_046,content_084,2024-02-18,6365,9170,0.6941112322791713,romance,romance,movie,7.6,standard,64,DE,17.99,Very Long
+user_046,content_085,2024-01-17,950,3223,0.294756438101148,romance,romance,movie,9.2,standard,64,DE,17.99,Medium
+user_046,content_091,2024-02-16,81,3552,0.022804054054054054,thriller,thriller,documentary,6.4,standard,64,DE,17.99,Long
+user_046,content_096,2024-03-14,1396,6093,0.22911537830297063,action,action,series,8.4,standard,64,DE,17.99,Very Long
+user_046,content_099,2024-03-02,321,4000,0.08025,thriller,thriller,series,6.1,standard,64,DE,17.99,Long
+user_047,content_006,2024-02-11,2196,5323,0.41254931429644937,documentary,documentary,series,7.6,basic,64,US,13.99,Very Long
+user_047,content_006,2024-03-07,757,2268,0.33377425044091713,documentary,documentary,series,7.6,basic,64,US,13.99,Short
+user_047,content_008,2024-01-14,620,4555,0.13611416026344675,sci-fi,sci-fi,movie,6.3,basic,64,US,13.99,Very Long
+user_047,content_010,2024-03-02,1355,5107,0.26532210691208147,thriller,thriller,movie,7.3,basic,64,US,13.99,Very Long
+user_047,content_029,2024-01-03,4690,8047,0.5828258978501305,sci-fi,sci-fi,series,8.0,basic,64,US,13.99,Very Long
+user_047,content_031,2024-02-04,707,2681,0.26370757180156656,thriller,thriller,documentary,8.9,basic,64,US,13.99,Medium
+user_047,content_031,2024-03-30,134,2117,0.06329711856400567,thriller,thriller,documentary,8.9,basic,64,US,13.99,Short
+user_047,content_036,2024-02-06,1053,5027,0.20946886811219415,sci-fi,sci-fi,series,7.9,basic,64,US,13.99,Very Long
+user_047,content_037,2024-03-07,6229,8701,0.7158947247442823,thriller,thriller,documentary,7.0,basic,64,US,13.99,Very Long
+user_047,content_041,2024-03-18,674,1626,0.4145141451414514,action,action,documentary,7.8,basic,64,US,13.99,Very Short
+user_047,content_042,2024-03-17,35,811,0.04315659679408138,thriller,thriller,documentary,9.1,basic,64,US,13.99,Very Short
+user_047,content_045,2024-03-23,3053,7228,0.4223851687880465,documentary,documentary,movie,8.9,basic,64,US,13.99,Very Long
+user_047,content_050,2024-02-24,97,1480,0.06554054054054054,romance,romance,series,6.9,basic,64,US,13.99,Very Short
+user_047,content_053,2024-01-17,385,920,0.41847826086956524,comedy,comedy,movie,7.1,basic,64,US,13.99,Very Short
+user_047,content_057,2024-03-29,145,1611,0.09000620732464308,romance,romance,movie,7.4,basic,64,US,13.99,Very Short
+user_047,content_061,2024-01-27,136,3211,0.04235440672687636,sci-fi,sci-fi,movie,6.9,basic,64,US,13.99,Medium
+user_047,content_070,2024-03-25,103,749,0.1375166889185581,sci-fi,sci-fi,documentary,7.6,basic,64,US,13.99,Very Short
+user_047,content_074,2024-03-01,518,1807,0.2866629773104593,thriller,thriller,series,8.1,basic,64,US,13.99,Short
+user_047,content_079,2024-01-30,133,2869,0.046357615894039736,comedy,comedy,movie,8.5,basic,64,US,13.99,Medium
+user_047,content_079,2024-03-05,174,3388,0.051357733175914994,comedy,comedy,movie,8.5,basic,64,US,13.99,Medium
+user_047,content_080,2024-03-15,634,2953,0.21469691838807992,horror,horror,series,6.7,basic,64,US,13.99,Medium
+user_047,content_083,2024-02-17,467,1161,0.40223944875107664,documentary,documentary,documentary,9.4,basic,64,US,13.99,Very Short
+user_047,content_087,2024-03-12,975,1736,0.5616359447004609,thriller,thriller,movie,9.2,basic,64,US,13.99,Very Short
+user_047,content_089,2024-01-17,50,2409,0.020755500207555,thriller,thriller,series,7.9,basic,64,US,13.99,Short
+user_047,content_094,2024-02-05,155,2718,0.05702722590139809,comedy,comedy,series,7.3,basic,64,US,13.99,Medium
+user_047,content_099,2024-02-06,63,1130,0.05575221238938053,thriller,thriller,series,6.1,basic,64,US,13.99,Very Short
+user_048,content_008,2024-03-27,30,1733,0.017311021350259664,sci-fi,sci-fi,movie,6.3,standard,58,FR,13.99,Very Short
+user_048,content_013,2024-03-21,224,2055,0.10900243309002433,sci-fi,sci-fi,series,8.4,standard,58,FR,13.99,Short
+user_048,content_019,2024-02-03,3897,8033,0.4851238640607494,romance,romance,movie,8.1,standard,58,FR,13.99,Very Long
+user_048,content_021,2024-02-14,2201,4178,0.5268070847295356,horror,horror,movie,7.8,standard,58,FR,13.99,Long
+user_048,content_028,2024-01-10,141,2981,0.047299563904729953,romance,romance,movie,9.0,standard,58,FR,13.99,Medium
+user_048,content_032,2024-01-23,509,2629,0.19360973754279193,drama,drama,movie,7.8,standard,58,FR,13.99,Medium
+user_048,content_033,2024-03-20,376,3407,0.1103610214264749,thriller,thriller,series,8.3,standard,58,FR,13.99,Medium
+user_048,content_043,2024-03-26,192,1220,0.15737704918032788,comedy,comedy,documentary,9.3,standard,58,FR,13.99,Very Short
+user_048,content_057,2024-02-04,790,1663,0.4750450992182802,romance,romance,movie,7.4,standard,58,FR,13.99,Very Short
+user_048,content_067,2024-03-15,279,2044,0.13649706457925637,thriller,thriller,movie,9.0,standard,58,FR,13.99,Short
+user_048,content_072,2024-03-23,315,3758,0.08382118147951038,horror,horror,documentary,9.4,standard,58,FR,13.99,Long
+user_048,content_075,2024-03-11,514,3049,0.168579862249918,sci-fi,sci-fi,series,8.9,standard,58,FR,13.99,Medium
+user_048,content_075,2024-03-21,767,2510,0.30557768924302786,sci-fi,sci-fi,series,8.9,standard,58,FR,13.99,Short
+user_048,content_078,2024-03-27,133,1177,0.11299915038232795,comedy,comedy,series,6.3,standard,58,FR,13.99,Very Short
+user_048,content_087,2024-02-11,681,1801,0.3781232648528595,thriller,thriller,movie,9.2,standard,58,FR,13.99,Short
+user_048,content_088,2024-01-04,111,1097,0.10118505013673655,drama,drama,series,7.9,standard,58,FR,13.99,Very Short
+user_048,content_089,2024-02-06,294,4203,0.06995003568879372,thriller,thriller,series,7.9,standard,58,FR,13.99,Long
+user_048,content_094,2024-02-15,1159,2568,0.4513239875389408,comedy,comedy,series,7.3,standard,58,FR,13.99,Short
+user_049,content_002,2024-02-22,350,4537,0.07714348688560722,documentary,documentary,documentary,9.5,basic,21,BR,17.99,Very Long
+user_049,content_007,2024-02-04,288,3509,0.08207466514676547,drama,drama,documentary,7.5,basic,21,BR,17.99,Long
+user_049,content_019,2024-03-18,149,1269,0.11741528762805359,romance,romance,movie,8.1,basic,21,BR,17.99,Very Short
+user_049,content_031,2024-01-27,741,2257,0.3283119184758529,thriller,thriller,documentary,8.9,basic,21,BR,17.99,Short
+user_049,content_031,2024-03-17,2269,3491,0.6499570323689488,thriller,thriller,documentary,8.9,basic,21,BR,17.99,Long
+user_049,content_032,2024-01-05,166,2571,0.06456631660832361,drama,drama,movie,7.8,basic,21,BR,17.99,Short
+user_049,content_033,2024-02-28,3541,7691,0.460408269405799,thriller,thriller,series,8.3,basic,21,BR,17.99,Very Long
+user_049,content_040,2024-03-31,178,2942,0.060503059143439834,comedy,comedy,movie,9.3,basic,21,BR,17.99,Medium
+user_049,content_044,2024-03-28,1008,1373,0.7341587764020393,drama,drama,movie,7.0,basic,21,BR,17.99,Very Short
+user_049,content_052,2024-01-06,697,2024,0.34436758893280633,horror,horror,movie,6.6,basic,21,BR,17.99,Short
+user_049,content_054,2024-03-22,1182,3154,0.37476220672162336,sci-fi,sci-fi,documentary,6.6,basic,21,BR,17.99,Medium
+user_049,content_058,2024-01-22,109,628,0.1735668789808917,romance,romance,series,7.3,basic,21,BR,17.99,Very Short
+user_049,content_063,2024-01-05,377,3343,0.11277295842058031,comedy,comedy,series,6.1,basic,21,BR,17.99,Medium
+user_049,content_063,2024-01-31,80,1075,0.07441860465116279,comedy,comedy,series,6.1,basic,21,BR,17.99,Very Short
+user_049,content_068,2024-01-03,885,2362,0.3746824724809483,documentary,documentary,movie,7.3,basic,21,BR,17.99,Short
+user_049,content_068,2024-02-06,196,1388,0.14121037463976946,documentary,documentary,movie,7.3,basic,21,BR,17.99,Very Short
+user_049,content_069,2024-01-17,287,2270,0.126431718061674,drama,drama,movie,7.9,basic,21,BR,17.99,Short
+user_049,content_071,2024-03-23,408,930,0.43870967741935485,action,action,series,9.4,basic,21,BR,17.99,Very Short
+user_049,content_074,2024-01-07,581,3140,0.18503184713375795,thriller,thriller,series,8.1,basic,21,BR,17.99,Medium
+user_049,content_075,2024-01-29,317,3393,0.09342764515178309,sci-fi,sci-fi,series,8.9,basic,21,BR,17.99,Medium
+user_049,content_084,2024-01-15,2169,6580,0.32963525835866264,romance,romance,movie,7.6,basic,21,BR,17.99,Very Long
+user_049,content_089,2024-01-25,388,4018,0.09656545545047288,thriller,thriller,series,7.9,basic,21,BR,17.99,Long
+user_049,content_093,2024-03-21,795,1506,0.5278884462151394,drama,drama,documentary,9.4,basic,21,BR,17.99,Very Short
+user_049,content_100,2024-01-18,2163,4577,0.47258029276818875,thriller,thriller,documentary,8.5,basic,21,BR,17.99,Very Long
+user_050,content_004,2024-02-24,86,3107,0.027679433537174124,drama,drama,documentary,7.3,basic,46,CA,17.99,Medium
+user_050,content_011,2024-02-01,234,1101,0.2125340599455041,sci-fi,sci-fi,documentary,8.0,basic,46,CA,17.99,Very Short
+user_050,content_013,2024-03-26,404,2179,0.1854061496099128,sci-fi,sci-fi,series,8.4,basic,46,CA,17.99,Short
+user_050,content_019,2024-01-21,665,4147,0.16035688449481553,romance,romance,movie,8.1,basic,46,CA,17.99,Long
+user_050,content_024,2024-03-25,215,2260,0.09513274336283185,action,action,movie,6.5,basic,46,CA,17.99,Short
+user_050,content_026,2024-02-26,6006,8893,0.6753626447767908,horror,horror,series,6.8,basic,46,CA,17.99,Very Long
+user_050,content_027,2024-02-12,195,2251,0.0866281652598845,thriller,thriller,movie,6.4,basic,46,CA,17.99,Short
+user_050,content_029,2024-01-26,318,3850,0.0825974025974026,sci-fi,sci-fi,series,8.0,basic,46,CA,17.99,Long
+user_050,content_036,2024-03-23,1149,4906,0.23420301671422747,sci-fi,sci-fi,series,7.9,basic,46,CA,17.99,Very Long
+user_050,content_037,2024-01-08,31,3580,0.008659217877094972,thriller,thriller,documentary,7.0,basic,46,CA,17.99,Long
+user_050,content_038,2024-01-23,279,2070,0.13478260869565217,comedy,comedy,movie,8.5,basic,46,CA,17.99,Short
+user_050,content_043,2024-02-25,227,1234,0.1839546191247974,comedy,comedy,documentary,9.3,basic,46,CA,17.99,Very Short
+user_050,content_045,2024-03-23,64,1318,0.048558421851289835,documentary,documentary,movie,8.9,basic,46,CA,17.99,Very Short
+user_050,content_047,2024-03-07,134,3900,0.03435897435897436,romance,romance,series,8.1,basic,46,CA,17.99,Long
+user_050,content_052,2024-03-26,331,3380,0.09792899408284024,horror,horror,movie,6.6,basic,46,CA,17.99,Medium
+user_050,content_056,2024-03-19,361,1387,0.2602739726027397,action,action,series,7.4,basic,46,CA,17.99,Very Short
+user_050,content_059,2024-01-16,2256,6946,0.32479124676072557,comedy,comedy,movie,6.7,basic,46,CA,17.99,Very Long
+user_050,content_060,2024-03-01,71,922,0.0770065075921909,documentary,documentary,series,7.8,basic,46,CA,17.99,Very Short
+user_050,content_064,2024-01-26,609,3146,0.19357914812460267,documentary,documentary,movie,6.9,basic,46,CA,17.99,Medium
+user_050,content_068,2024-03-04,253,4454,0.05680287382128424,documentary,documentary,movie,7.3,basic,46,CA,17.99,Very Long
+user_050,content_071,2024-03-19,418,1351,0.30940044411547,action,action,series,9.4,basic,46,CA,17.99,Very Short
+user_050,content_073,2024-01-24,3886,9544,0.40716680637049457,action,action,movie,9.3,basic,46,CA,17.99,Very Long
+user_050,content_075,2024-01-20,3102,5268,0.5888382687927107,sci-fi,sci-fi,series,8.9,basic,46,CA,17.99,Very Long
+user_050,content_083,2024-01-05,147,2153,0.06827682303762192,documentary,documentary,documentary,9.4,basic,46,CA,17.99,Short
+user_050,content_087,2024-03-29,101,2743,0.03682099890630696,thriller,thriller,movie,9.2,basic,46,CA,17.99,Medium
+user_050,content_090,2024-01-18,295,2084,0.14155470249520152,comedy,comedy,documentary,6.1,basic,46,CA,17.99,Short
+user_050,content_099,2024-03-01,532,2634,0.20197418375094914,thriller,thriller,series,6.1,basic,46,CA,17.99,Medium
+user_050,content_100,2024-01-30,1686,3980,0.4236180904522613,thriller,thriller,documentary,8.5,basic,46,CA,17.99,Long
